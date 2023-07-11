@@ -17,18 +17,28 @@
 
 [[main]]
   name = "Covers"
-  pageRef = "posts"
+  pageRef = "covers"
   weight = 20
 
 [[main]]
   name = "About"
-  pageRef = "about"
+  pageRef = "posts/about.md"
   weight = 30
 
 #[[subnavigation]]
-#  name = "Realises Songs"
-#  pageRef = "tags/realises"
+#  name = "Songs"
+#  pageRef = "songs"
 #  weight = 10
+
+#[[subnavigation]]
+#  name = "Covers"
+#  pageRef = "covers"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "About"
+#  pageRef = "posts/about.md"
+#  weight = 30
 
 #[[subnavigation]]
 #  name = "My Awesome Category"

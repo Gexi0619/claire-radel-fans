@@ -1,5 +1,5 @@
 ---
-title: "Someones Gonna Love You"
+title: "Someone's Gonna Love You"
 date: 2018-09-14T11:59:44+02:00
 draft: false
 tags:

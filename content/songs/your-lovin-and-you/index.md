@@ -8,14 +8,17 @@ tags:
 
 ## Release
 
-{{< spotify id="6liT3dcCwTtKRAX2knMDk5" >}}
+{{< spotify id="42fIbkDGHYZ2cySqrgaEWw" >}}
 
-{{< applemusic fullid="the-one/1567936634?i=1567936636" >}}
+{{< applemusic fullid="your-lovin-and-you/1191146057?i=1191146061" >}}
 
 <details><summary>more</summary>
-	{{< amazonmusic id="B09561CMMB" >}}
-	{{< deezer id="230747342" >}}
+	{{< amazonmusic id="B01N301AZR" >}}
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274181983&color=%23806c64&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/your-lovin-and-you-original-song" title="Your Lovin and You (Original Song)" target="_blank" style="color: #cccccc; text-decoration: none;">Your Lovin and You (Original Song)</a></div>
+    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_5537880?widget_id=55&pwc[song_ids]=26846983&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+	{{< deezer id="14964209" >}}
 </details>
+
 
 ## Lives
 

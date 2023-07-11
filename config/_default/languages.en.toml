@@ -11,9 +11,14 @@ headline = "↓ A fanpage of CLAIRE RADEL ↓"
 bio = "↓ A fanpage of CLAIRE RADEL ↓"
 links = [
   { spotify = "https://open.spotify.com/artist/7MVzazM4VfIZzmRGbd5bT8" },
-  { facebook = "https://facebook.com/ClaireRadelMusic" },
+  { applemusic = "https://music.apple.com/artist/claire-radel/1191146058" },
+  { soundcloud = "https://soundcloud.com/claire-radel" },
+  { website = "https://www.claireradelmusic.com" },
+  { youtube = "https://www.youtube.com/@claireradelmusic" },
   { instagram = "https://instagram.com/claireradelmusic" },
-  { tiktok = "https://twitter.com/username" }
+  { facebook = "https://facebook.com/ClaireRadelMusic" },
+  { twitter = "https://twitter.com/CRadelMusic" },
+  { tiktok = "https://www.tiktok.com/@claireradelmusic" }
 ]
 
 [params]
