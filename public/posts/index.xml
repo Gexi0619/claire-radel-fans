@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Claire Radel Fans</title>
+    <link>https://claireradelfans.gexisun.com/posts/</link>
+    <description>Recent content in Posts on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Jul 2023 10:09:29 +0200</lastBuildDate><atom:link href="https://claireradelfans.gexisun.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://claireradelfans.gexisun.com/posts/test/</link>
+      <pubDate>Tue, 11 Jul 2023 10:09:29 +0200</pubDate>
+      
+      <guid>https://claireradelfans.gexisun.com/posts/test/</guid>
+      <description>Hi # 你好 # 你好测试一下</description>
+    </item>
+    
+  </channel>
+</rss>

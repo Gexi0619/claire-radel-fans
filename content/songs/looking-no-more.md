@@ -8,13 +8,14 @@ tags:
 
 ## Releases
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2iiQnmYS1YQs0ILqfM0m67?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< spotify id="2iiQnmYS1YQs0ILqfM0m67" >}}
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/looking-no-more/1676572744?i=1676572745"></iframe>
+{{< applemusic fullid="looking-no-more/1676572744?i=1676572745" >}}
 
-<iframe id='AmazonMusicEmbedB0BY1VBWLF' src='https://music.amazon.it/embed/B0BY1VBWLF/?id=7Sk9F4jS72&marketplaceId=APJ6JRA9NG5V4&musicTerritory=IT' width='100%' height='210px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
-
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/album/416003507" width="100%" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<details><summary>more</summary>
+	{{< amazonmusic id="B0BY1VBWLF" >}}
+	{{< deezer id="416003507" >}}
+</details>
 
 ## Lives
 

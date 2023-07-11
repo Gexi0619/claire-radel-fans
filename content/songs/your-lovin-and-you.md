@@ -8,13 +8,14 @@ tags:
 
 ## Release
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6liT3dcCwTtKRAX2knMDk5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< spotify id="6liT3dcCwTtKRAX2knMDk5" >}}
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/the-one/1567936634?i=1567936636"></iframe>
+{{< applemusic fullid="the-one/1567936634?i=1567936636" >}}
 
-<iframe id='AmazonMusicEmbedB09561CMMB' src='https://music.amazon.it/embed/B09561CMMB/?id=LFDRFx7ROR&marketplaceId=APJ6JRA9NG5V4&musicTerritory=IT' width='100%' height='210px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
-
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/album/230747342" width="100%" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<details><summary>more streaming services</summary>
+	{{< amazonmusic id="B09561CMMB" >}}
+	{{< deezer id="230747342" >}}
+</details>
 
 ## Lives
 

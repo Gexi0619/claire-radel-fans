@@ -8,15 +8,15 @@ tags:
 
 ## Releases
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5YdbQaErewdwrgjR2ERWqz?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe
+{{< spotify id="5YdbQaErewdwrgjR2ERWqz" >}}
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/youre-askin-for-it/1435502279?i=1435502283"></iframe>
+{{< applemusic fullid="youre-askin-for-it/1435502279?i=1435502283" >}}
 
-<iframe id='AmazonMusicEmbedB07H46N8HF' src='https://music.amazon.it/embed/B07H46N8HF/?id=WwMHIJwcbc&marketplaceId=APJ6JRA9NG5V4&musicTerritory=IT' width='100%' height='210px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505036593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-youre-askin-for-it" title="Claire Radel You&#x27;re Askin&#x27; For It" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel You&#x27;re Askin&#x27; For It</a></div>
-
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/light/track/551345322" width="100%" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<details><summary>more</summary>
+	{{< amazonmusic id="B07H46N8HF" >}}
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505036593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-youre-askin-for-it" title="Claire Radel You&#x27;re Askin&#x27; For It" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel You&#x27;re Askin&#x27; For It</a></div>
+	{{< deezer id="551345322" >}}
+</details>
 
 ## Behind The Scenes
 

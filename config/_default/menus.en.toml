@@ -11,20 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Originals"
+  name = "Songs"
   pageRef = "songs"
-  weight = 10
-
-[[main]]
-  name = "Releases"
-  parent = "Originals"
-  pageRef = "tags/releases"
-  weight = 10
-
-[[main]]
-  name = "UnReleases"
-  parent = "Originals"
-  pageRef = "tags/unreleases"
   weight = 10
 
 [[main]]

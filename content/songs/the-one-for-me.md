@@ -8,15 +8,15 @@ tags:
 
 ## Releases
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BJVFhr4X83hcCKhYhcUKD?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< spotify id="0BJVFhr4X83hcCKhYhcUKD" >}}
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/the-one-for-me/1435502279?i=1435502282"></iframe>
+{{< applemusic fullid="the-one-for-me/1435502279?i=1435502282" >}}
 
-<iframe id='AmazonMusicEmbedB07H48S2R3' src='https://music.amazon.it/embed/B07H48S2R3/?id=jy3geVGn3O&marketplaceId=APJ6JRA9NG5V4&musicTerritory=IT' width='100%' height='210px' style='border:1px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505035258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-the-one-for-me" title="Claire Radel The One For Me" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel The One For Me</a></div>
-
-<iframe title="deezer-widget" src="https://widget.deezer.com/widget/light/track/551345312" width="100%" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+<details><summary>more</summary>
+	{{< amazonmusic id="B07H48S2R3" >}}
+	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505035258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-the-one-for-me" title="Claire Radel The One For Me" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel The One For Me</a></div>
+	{{< deezer id="551345312" >}}
+</details>
 
 ## Behind The Scenes
 
