@@ -22,7 +22,7 @@ tags:
 
 ### THE MAKING OF MY DEBUT EP - October 16, 2018
 
-<iframe width="100%" height="335" src="https://www.youtube.com/embed/EbHHnpCRlHE?start=480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="EbHHnpCRlHE" start="480">}}
 
 I had such a GREAT time making my first EP!!! All of these songs are so personal to me and I hope you can relate to them and have enjoyed listening to them!!! Thank you to my producer Jeremy and to the guys who played on this lil’ bundle of joy. Stay tuned for new songs!!
 
@@ -36,14 +36,14 @@ My first performance in Memphis at South Main Sounds!
 
 ### "The One For Me" (original song) - February 12, 201
 
-<iframe width="100%" height="335" src="https://www.youtube.com/embed/XxxwIo9-Dhw" title="&quot;The One For Me&quot; (original song)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="XxxwIo9-Dhw" >}}
 
 Hey guys!!!! Sorry for my iffy uke playing I dont use it very often, but this song was originaly written on it!!! I hope you enjoy this song and think if that special someone you might have in your life!!! Happy Valentines day!! much love!
 xx -Claire
 
 ### Facebook Video - September 15, 2018
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F237702323578936%2F&show_text=false&width=560&t=0" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F237702323578936%2F&show_text=false&width=560&t=0" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 "so this first song that I'll be singing is called The One for Me and it's basically about like you know like that one person is like the one for you you know like everything just seems like really right and the relationship and I hope you guys enjoy"
 

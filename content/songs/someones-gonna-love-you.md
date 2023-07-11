@@ -43,7 +43,7 @@ So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Na
 
 ### SOMEONES GONNA LOVE YOU LIVE | SPECKLED T’S LOUISIANA - October 28, 2018
 
-<iframe width="100%" height="335" src="https://www.youtube.com/embed/MzTeYXGAw9s" title="SOMEONES GONNA LOVE YOU LIVE | SPECKLED T’S LOUISIANA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="MzTeYXGAw9s" >}}
 
 Here is my live version of “Someone’s Gonna Love You” off of my debut EP “You’re Askin’ For It” AVAILABLE EVERYWHERE!! Thank you to the band Geaux West for learning my song and to my awesome Uncle who is playing the keyboard for getting this arranged!!! Had a blast! DONT FORGET TO SUBSCRIBE ;)
 

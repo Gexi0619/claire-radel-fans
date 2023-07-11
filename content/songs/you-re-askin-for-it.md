@@ -22,15 +22,13 @@ tags:
 
 ### THE MAKING OF MY DEBUT EP - October 16, 2018
 
-<iframe width="560" height="335" src="https://www.youtube.com/embed/EbHHnpCRlHE?start=480" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="EbHHnpCRlHE" start="480" >}}
 
 I had such a GREAT time making my first EP!!! All of these songs are so personal to me and I hope you can relate to them and have enjoyed listening to them!!! Thank you to my producer Jeremy and to the guys who played on this lil’ bundle of joy. Stay tuned for new songs!!
 
 ## Lives
 
 ### Facebook Video - Semptember 15, 2018
-
-<iframe width="100%" height="335" src="https://www.youtube.com/embed/r4vaZzpLvRo" title="&quot;Your Lovin and You&quot; (original) BlueBird Cafe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F237702323578936%2F&show_text=false&width=560&t=549" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
@@ -44,7 +42,7 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 ### You're Askin' For It (original song) Rhum Fest 2019 - July 29, 2019
 
-<iframe width="100%" height="335" src="https://www.youtube.com/embed/U6ePOpBS7XM" title="You&#39;re Askin&#39; For It (original song) Rhum Fest 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="U6ePOpBS7XM" >}}
 
 "You're Askin' For It" original song. Performed at Rhum Fest with Sami Soutar, (bass/vocals) Nick Johnson, (guitar) and James Lightsey (drums).
 

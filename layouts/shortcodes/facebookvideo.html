@@ -1,0 +1,16 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $userid := .Get "userid" | default (.Get 0) }}
+{{ $start := .Get "start" | default 0 }}
+{{ $title := .Get "title" | default "Facebook Video" }}
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" 
+src="https://connect.facebook.net/en_us/sdk.js#xfbml=1&version=v17.0" 
+nonce="NE3lz2Vp"></script>
+
+<div class="fb-video" 
+data-href="https://www.facebook.com/{{ $id }}/videos/{{ $id }}/?ref=embed_video&amp;t={{ $start }}" 
+data-width="640" data-show-text="false">
+</div>
+
