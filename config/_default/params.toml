@@ -25,7 +25,7 @@ defaultFeaturedImage = "" # used as default for featured images in all articles
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -40,15 +40,15 @@ defaultFeaturedImage = "" # used as default for featured images in all articles
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
-  showMoreLinkDest = "/songs"
+  showMoreLinkDest = "/songs/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = true
   showAuthor = false
   showHero = true

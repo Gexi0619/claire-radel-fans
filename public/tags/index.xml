@@ -2,17 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Claire Radel Fans</title>
-    <link>https://claireradelfans.gexisun.com/tags/</link>
+    <link>https://claireradelfans.pages.dev.com/tags/</link>
     <description>Recent content in Tags on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2023 11:16:19 +0200</lastBuildDate><atom:link href="https://claireradelfans.gexisun.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 17:50:51 +0200</lastBuildDate><atom:link href="https://claireradelfans.pages.dev.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>coming soon</title>
+      <link>https://claireradelfans.pages.dev.com/tags/coming-soon/</link>
+      <pubDate>Tue, 11 Jul 2023 17:50:51 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev.com/tags/coming-soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beauty</title>
+      <link>https://claireradelfans.pages.dev.com/tags/beauty/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev.com/tags/beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guitar</title>
+      <link>https://claireradelfans.pages.dev.com/tags/guitar/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev.com/tags/guitar/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>release</title>
-      <link>https://claireradelfans.gexisun.com/tags/release/</link>
+      <link>https://claireradelfans.pages.dev.com/tags/release/</link>
       <pubDate>Fri, 14 Apr 2023 11:16:19 +0200</pubDate>
       
-      <guid>https://claireradelfans.gexisun.com/tags/release/</guid>
+      <guid>https://claireradelfans.pages.dev.com/tags/release/</guid>
       <description></description>
     </item>
     

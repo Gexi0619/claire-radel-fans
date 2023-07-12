@@ -42,8 +42,44 @@ Hey everyone!! I have a pretty exciting video to share with you! This is my TV i
 
 ### My first performance in Memphis at South Main Sounds! - July 1, 2017
 
-{{< facebookvideo userid="ClaireRadelMusic" id="868292159990447" >}}
+{{< facebookvideoh userid="ClaireRadelMusic" id="868292159990447" >}}
 
 My first performance in Memphis at South Main Sounds!
 
 ## Lyrics
+
+I don't need a lot of money  
+Or my name in lights  
+All I want is your lovin' everyday and night  
+Some people don't know how to live their life  
+But I think I've finally got it right  
+
+Cause all your lovin' is all I need  
+It's enough to keep me standing on my feet  
+Doesn't matter where I go  
+Or what I do  
+As long as I've got your lovin' and you  
+As long as I've got your lovin' and you  
+
+We've been all around the country seen some beautiful sights  
+But the best part of it all is when you'd hold me at night  
+Can't believe I've found someone like you  
+Honestly you're like a dream come true  
+
+Cause all your lovin' is all I need  
+It's enough to keep me standing on my feet  
+Doesn't matter where I go  
+Or what I do  
+As long as I've got your lovin' and you  
+As long as I've got your lovin' and you  
+
+I feel so alone when you're gone  
+But I know our love will always stay strong, strong  
+
+Cause all your lovin' is all I need  
+It's enough to keep me standing on my feet  
+Doesn't matter where I go  
+Or what I do  
+As long as I've got your lovin' and you  
+As long as I've got your lovin' and you  
+As long as I've got your lovin' and you.  

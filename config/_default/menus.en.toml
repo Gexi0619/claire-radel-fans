@@ -22,7 +22,12 @@
 
 [[main]]
   name = "About"
-  pageRef = "posts/about.md"
+  pageRef = "about"
+  weight = 40
+
+[[main]]
+  name = "Albums"
+  pageRef = "albums"
   weight = 30
 
 #[[subnavigation]]

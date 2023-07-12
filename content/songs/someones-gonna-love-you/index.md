@@ -36,7 +36,7 @@ So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Na
 
 ### Facebook Video - Semptember 15, 2018
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F237702323578936%2F&show_text=false&width=560&t=271" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+{{< facebookvideoh userid="ClaireRadelMusic" id="237702323578936" start="271" >}}
 
 
 "This next song is called Someone's Gonna Love You, and I wrote it kind of about something I was going through at the time, along with another friend of mine, who were both having boy issues at the same time, so it's kind of inspired by that, and I hope you guys enjoy."
@@ -49,13 +49,13 @@ Here is my live version of “Someone’s Gonna Love You” off of my debut EP �
 
 ### Hey y’all!! Liveshow, lets hangout! I will be guesting some of you if you’d like! - May 7, 2019
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F410878236160448%2F&show_text=false&width=300&t=666" width="100%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+{{< facebookvideov userid="ClaireRadelMusic" id="410878236160448" start="666" >}}
 
 "I'm going to stop talking and try to sing something for you guys. I might be able to do one of my songs on piano. We'll see how this goes. Not guaranteeing anything awesome, but. Okay, see, we're already off to a rough start. I haven't played this intro in a while. It's a dramatic intro, but..."
 
 ### Second Thursday Night Live!! Come hangout if you can :) - March 26, 2020
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F681790179220550%2F&show_text=false&width=560&t=203" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+{{< facebookvideoh userid="ClaireRadelMusic" id="681790179220550" start="203" >}}
 
 "Alright so this is Someone Gonna Love You"
 

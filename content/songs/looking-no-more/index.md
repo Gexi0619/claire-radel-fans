@@ -4,6 +4,7 @@ date: 2023-04-14T11:16:19+02:00
 draft: false
 tags:
 - release
+- new
 ---
 
 ## Releases
@@ -21,7 +22,9 @@ tags:
 
 ### Live @ Dawghouse Saloon - June 21, 2023
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F648133960184812%2F&show_text=false&width=267&t=446" width="267" height="446" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+{{< facebookvideov userid="ClareRadelMusic" id="648133960184812" start="446">}}
+
+This last song is called "Lookin No More"
 
 ## Lyrics
 
