@@ -21,14 +21,16 @@
   weight = 20
 
 [[main]]
+  name = "Albums"
+  pageRef = "albums"
+  weight = 30
+
+[[main]]
   name = "About"
   pageRef = "about"
   weight = 40
 
-[[main]]
-  name = "Albums"
-  pageRef = "albums"
-  weight = 30
+
 
 #[[subnavigation]]
 #  name = "Songs"
@@ -68,9 +70,30 @@
 
 
 # [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+#  name = "Songs"
+#  pageRef = "songs"
+#  weight = 10
+
+
+[[footer]]
+  name = "Songs"
+  pageRef = "songs"
+  weight = 10
+
+[[footer]]
+  name = "Covers"
+  pageRef = "covers"
+  weight = 20
+
+[[footer]]
+  name = "Albums"
+  pageRef = "albums"
+  weight = 30
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 40
 
 # [[footer]]
 #   name = "Categories"
