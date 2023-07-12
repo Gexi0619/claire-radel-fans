@@ -84,9 +84,9 @@ defaultFeaturedImage = "" # used as default for featured images in all articles
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = true
+  showCards = false
   groupByYear = true
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
