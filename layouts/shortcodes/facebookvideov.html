@@ -3,4 +3,11 @@
 {{ $start := .Get "start" | default 0 }}
 {{ $title := .Get "title" | default "Facebook Video" }}
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2F{{ $userid }}%2Fvideos%2F{{ $id }}%2F&show_text=false&width=476&t={{ $start }}" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/{{ $userid }}/videos/{{ $id }}/?ref=embed_video&t={{ $start }}"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
