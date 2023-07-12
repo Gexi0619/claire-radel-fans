@@ -16,19 +16,24 @@
   weight = 10
 
 [[main]]
+  name = "Demos"
+  pageRef = "demos"
+  weight = 20
+
+[[main]]
   name = "Covers"
   pageRef = "covers"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Albums"
   pageRef = "albums"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 40
+  weight = 50
 
 
 
@@ -81,24 +86,31 @@
   weight = 10
 
 [[footer]]
+  name = "Demos"
+  pageRef = "demos"
+  weight = 20
+
+[[footer]]
   name = "Covers"
   pageRef = "covers"
-  weight = 20
+  weight = 30
 
 [[footer]]
   name = "Albums"
   pageRef = "albums"
-  weight = 30
-
-[[footer]]
-  name = "About"
-  pageRef = "about"
-  weight = 50
+  weight = 40
 
 [[footer]]
   name = "Tags"
   pageRef = "tags"
-  weight = 40
+  weight = 50
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 60
+
+
 
 # [[footer]]
 #   name = "Categories"
