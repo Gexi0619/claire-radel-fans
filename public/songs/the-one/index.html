@@ -95,7 +95,7 @@
     "keywords": ["release"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2"
+    "wordCount": "1"
   }]
   </script>
 
@@ -173,7 +173,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -198,9 +202,19 @@
 
             
             
-  <a href=""  class="flex items-center">
+  <a href="/demos/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Demos">
+        Demos
+    </p>
+</a>
+
+
+            
+            
+  <a href="/covers/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Covers">
         Covers
     </p>
 </a>
@@ -208,7 +222,17 @@
 
             
             
-  <a href="/posts/about/"  class="flex items-center">
+  <a href="/albums/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Albums">
+        Albums
+    </p>
+</a>
+
+
+            
+            
+  <a href="/about/"  class="flex items-center">
     
     <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About Claire">
         About
@@ -366,9 +390,23 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/demos/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Demos">
+            Demos
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/covers/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Covers">
             Covers
         </p>
     </a>
@@ -380,7 +418,21 @@
 
                     
   <li class="mt-1">
-    <a href="/posts/about/"  class="flex items-center">
+    <a href="/albums/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Albums">
+            Albums
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/about/"  class="flex items-center">
         
         <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About Claire">
             About
@@ -404,6 +456,16 @@
 
 
 
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -524,20 +586,56 @@
 
 
 
+
+
+
+
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2021-06-11 11:59:58 &#43;0200 CEST">11 June 2021</time><span class="px-2 text-primary-500">&middot;</span>
-
-
-  
+  <time datetime="2021-06-11 11:59:58 &#43;0200 CEST">11 June 2021</time><span class="px-2 text-primary-500">&middot;</span><span>
     
+    <span id="likes_songs/the-one/index.md" title="likes">0</span> 
+    
+    <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+</span>
+</span><span class="px-2 text-primary-500">&middot;</span><span>
+    <button id="likes_button"
+        class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+        onclick="process_article()">
+        <span id="likes_button_heart" style="display:none" class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+ </span>
+        <span id="likes_button_emtpty_heart" class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>
+  </span>
+
+</span>
+        <span id="likes_button_text">&nbsp;Like</span>
+    </button>
+</span><span class="px-2 text-primary-500">&middot;</span>
+
+
   
   
 
 <span class="mb-[2px]">
   <a
-    href="https://github.com/Gexi0619/claire-radel-fans/songs/the-one/index.md"
+    href="https://github.com/Gexi0619/claire-radel-fans/tree/master/content/songs/the-one/index.md"
     class="text-lg hover:text-primary-500"
     rel="noopener noreferrer"
     target="_blank"
@@ -618,27 +716,20 @@
         
 
         <p>building</p>
- <div class="fb-video" 
-      data-href="https://www.facebook.com/facebook/videos/10153231379946729/" 
-      data-width="500" 
-      data-show-text="false">
- </div>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F868301339989529%2F&show_text=false&width=560&t=0" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-<iframe src="https://www.facebook.com/ClaireRadelMusic/videos/648133960184812/?ref=embed_video&t=447" 
-width="267" height="446" style="border:none;overflow:hidden" 
-scrolling="no" frameborder="0" allowfullscreen="true" 
-allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
-allowFullScreen="true"></iframe>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" 
-src="https://connect.facebook.net/en_us/sdk.js#xfbml=1&version=v17.0" 
-nonce="NE3lz2Vp"></script>
-<div class="fb-video" 
-data-href="https://www.facebook.com/ClaireRadelMusic/videos/648133960184812/?ref=embed_video&amp;t=461" 
-data-width="500" data-show-text="false">
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClaireRadelMusic/videos/247392071005188/?ref=embed_video&t=50"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
 </div>
-<p><a href="https://www.facebook.com/watch/?v=868292159990447"   target="_blank">
-    https://www.facebook.com/watch/?v=868292159990447</a></p>
+
 
         </br></br>
         
@@ -700,15 +791,15 @@ data-width="500" data-show-text="false">
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/songs/not-what-i-want/">
+            <a class="flex text-right group ml-3" href="/songs/something-people-say/">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Not What I Want</span
+                  >Something People Say</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
-                    <time datetime="2020-08-07 17:43:30 &#43;0200 CEST">7 August 2020</time>
+                    <time datetime="2021-03-11 14:48:28 &#43;0200 &#43;0200">11 March 2021</time>
                   
                 </span>
               </span>
@@ -732,16 +823,46 @@ data-width="500" data-show-text="false">
   </footer>
 </article>
 
-      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
-  <a href="#the-top"
-    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
-    &uarr;
-  </a>
-</div>
+      
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
+    
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/songs/"
+            title="Songs">Songs</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/demos/"
+            title="Demos">Demos</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/covers/"
+            title="Covers">Covers</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/albums/"
+            title="Albums">Albums</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/tags/"
+            title="Tags">Tags</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/about/"
+            title="About Claire">About</a>
+        </li>
+        
+      </ul>
+    </nav>
     
   
   <div class="flex items-center justify-between">

@@ -4,18 +4,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/</loc>
-            <lastmod>2023-07-11T17:50:51+02:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/no-victory/</loc>
+            <loc>https://claireradelfans.pages.dev/</loc>
             <lastmod>2023-07-11T17:50:51+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -24,7 +13,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/</loc>
+            <loc>https://claireradelfans.pages.dev/releases/</loc>
             <lastmod>2023-07-11T17:50:51+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -37,7 +26,57 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/photos/green-rail/</loc>
+            <loc>https://claireradelfans.pages.dev/releases/no-victory/</loc>
+            <lastmod>2023-07-11T17:50:51+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/green-rail/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/lush/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/pick-you/</loc>
             <lastmod>2023-07-11T11:16:19+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -48,7 +87,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/photos/</loc>
+            <loc>https://claireradelfans.pages.dev/albums/pink-car/</loc>
             <lastmod>2023-07-11T11:16:19+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -56,8 +95,47 @@
     
   
     
+  
+    
       <url>
-            <loc>https://claireradelfans.pages.dev.com/posts/about/</loc>
+            <loc>https://claireradelfans.pages.dev/albums/purple-fog/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/red-velvet/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/slay/</loc>
+            <lastmod>2023-07-11T11:16:19+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/about/</loc>
             <lastmod>2023-07-11T10:09:29+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -66,7 +144,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/posts/</loc>
+            <loc>https://claireradelfans.pages.dev/posts/about/</loc>
             <lastmod>2023-07-11T10:09:29+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -75,7 +153,47 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/looking-no-more/</loc>
+            <loc>https://claireradelfans.pages.dev/posts/</loc>
+            <lastmod>2023-07-11T10:09:29+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/</loc>
+            <lastmod>2023-05-18T10:02:35+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/star-child/</loc>
+            <lastmod>2023-05-18T10:02:35+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/iv-v-vi/</loc>
+            <lastmod>2023-04-30T10:06:05+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/looking-no-more/</loc>
             <lastmod>2023-04-14T11:16:19+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -85,8 +203,74 @@
     
   
     
+  
+    
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/the-one/</loc>
+            <loc>https://claireradelfans.pages.dev/demos/guitar-solo-mi-sol-la/</loc>
+            <lastmod>2022-07-21T10:41:32+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/albums/creative-coner/</loc>
+            <lastmod>2022-04-10T10:49:32+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/i-ii-iv/</loc>
+            <lastmod>2022-03-28T10:58:45+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/sol-la-do-la/</loc>
+            <lastmod>2022-03-14T11:01:51+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/break-my-heart/</loc>
+            <lastmod>2022-02-28T11:04:58+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/demos/in-the-dark/</loc>
+            <lastmod>2021-12-21T11:06:26+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/the-one/</loc>
             <lastmod>2021-06-11T11:59:58+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -94,9 +278,11 @@
     
   
     
+  
+    
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/not-what-i-want/</loc>
-            <lastmod>2020-08-07T17:43:30+02:00</lastmod>
+            <loc>https://claireradelfans.pages.dev/releases/something-people-say/</loc>
+            <lastmod>2021-03-11T14:48:28+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -104,7 +290,36 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/like-you-love-me/</loc>
+            <loc>https://claireradelfans.pages.dev/demos/i-iv/</loc>
+            <lastmod>2020-12-04T10:28:41+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/not-what-i-want/</loc>
+            <lastmod>2020-08-07T17:43:30+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/guiltine/</loc>
+            <lastmod>2020-06-12T14:50:40+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/like-you-love-me/</loc>
             <lastmod>2020-06-03T17:43:12+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -113,7 +328,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/you-re-askin-for-it/</loc>
+            <loc>https://claireradelfans.pages.dev/releases/you-re-askin-for-it/</loc>
             <lastmod>2018-09-14T12:00:35+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -122,7 +337,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/the-one-for-me/</loc>
+            <loc>https://claireradelfans.pages.dev/releases/the-one-for-me/</loc>
             <lastmod>2018-09-14T12:00:08+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -131,7 +346,7 @@
   
     
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/someones-gonna-love-you/</loc>
+            <loc>https://claireradelfans.pages.dev/releases/someones-gonna-love-you/</loc>
             <lastmod>2018-09-14T11:59:44+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -139,9 +354,75 @@
     
   
     
+  
+    
       <url>
-            <loc>https://claireradelfans.pages.dev.com/songs/your-lovin-and-you/</loc>
+            <loc>https://claireradelfans.pages.dev/covers/</loc>
+            <lastmod>2017-04-01T11:59:58+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/covers/nashville/</loc>
+            <lastmod>2017-04-01T11:59:58+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/releases/your-lovin-and-you/</loc>
             <lastmod>2016-12-28T12:00:46+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/covers/blank-space-style-mashup/</loc>
+            <lastmod>2015-02-21T12:19:53+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/covers/come-away-with-me/</loc>
+            <lastmod>2015-01-18T12:19:53+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/covers/come-around/</loc>
+            <lastmod>2014-12-21T12:19:53+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://claireradelfans.pages.dev/covers/riptide/</loc>
+            <lastmod>2014-12-20T12:19:53+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

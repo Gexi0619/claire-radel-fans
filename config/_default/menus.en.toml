@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Songs"
-  pageRef = "songs"
+  name = "Releases"
+  pageRef = "releases"
   weight = 10
 
 [[main]]
@@ -81,8 +81,8 @@
 
 
 [[footer]]
-  name = "Songs"
-  pageRef = "songs"
+  name = "Releases"
+  pageRef = "releases"
   weight = 10
 
 [[footer]]

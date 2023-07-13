@@ -173,7 +173,11 @@
   </div>
   
   
-  <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     
     <div class="flex flex-1 items-center justify-between">
@@ -198,9 +202,19 @@
 
             
             
-  <a href=""  class="flex items-center">
+  <a href="/demos/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Demos">
+        Demos
+    </p>
+</a>
+
+
+            
+            
+  <a href="/covers/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Covers">
         Covers
     </p>
 </a>
@@ -208,7 +222,17 @@
 
             
             
-  <a href="/posts/about/"  class="flex items-center">
+  <a href="/albums/"  class="flex items-center">
+    
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Albums">
+        Albums
+    </p>
+</a>
+
+
+            
+            
+  <a href="/about/"  class="flex items-center">
     
     <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="About Claire">
         About
@@ -366,9 +390,23 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/demos/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Demos">
+            Demos
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/covers/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Covers">
             Covers
         </p>
     </a>
@@ -380,7 +418,21 @@
 
                     
   <li class="mt-1">
-    <a href="/posts/about/"  class="flex items-center">
+    <a href="/albums/"  class="flex items-center">
+        
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Albums">
+            Albums
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/about/"  class="flex items-center">
         
         <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="About Claire">
             About
@@ -404,6 +456,16 @@
 
 
 
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
 
   
   <div class="relative flex flex-col grow">
@@ -524,20 +586,56 @@
 
 
 
+
+
+
+
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2018-09-14 12:00:35 &#43;0200 CEST">14 September 2018</time><span class="px-2 text-primary-500">&middot;</span>
-
-
-  
+  <time datetime="2018-09-14 12:00:35 &#43;0200 CEST">14 September 2018</time><span class="px-2 text-primary-500">&middot;</span><span>
     
+    <span id="likes_songs/you-re-askin-for-it/index.md" title="likes">0</span> 
+    
+    <span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+</span>
+</span><span class="px-2 text-primary-500">&middot;</span><span>
+    <button id="likes_button"
+        class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400"
+        onclick="process_article()">
+        <span id="likes_button_heart" style="display:none" class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+  </span>
+
+ </span>
+        <span id="likes_button_emtpty_heart" class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<path fill="currentColor" d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>
+  </span>
+
+</span>
+        <span id="likes_button_text">&nbsp;Like</span>
+    </button>
+</span><span class="px-2 text-primary-500">&middot;</span>
+
+
   
   
 
 <span class="mb-[2px]">
   <a
-    href="https://github.com/Gexi0619/claire-radel-fans/songs/you-re-askin-for-it/index.md"
+    href="https://github.com/Gexi0619/claire-radel-fans/tree/master/content/songs/you-re-askin-for-it/index.md"
     class="text-lg hover:text-primary-500"
     rel="noopener noreferrer"
     target="_blank"
@@ -696,9 +794,9 @@
 
 
 
-  <iframe style="border-radius:12px"
+  <iframe style="border-radius:5px"
           src="https://open.spotify.com/embed/track/5YdbQaErewdwrgjR2ERWqz?utm_source=generator" 
-          width="100%" height="100" 
+          width="100%" height="200" 
           frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
           loading="lazy"></iframe>
 
@@ -707,7 +805,7 @@
 
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
-    frameborder="0" height="100" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
+    frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" 
     sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
     src="https://embed.music.apple.com/us/album/youre-askin-for-it/1435502279?i=1435502283"></iframe>
 
@@ -718,8 +816,8 @@
 	
 	<iframe id='AmazonMusicEmbed' 
 	src='https://music.amazon.it/embed/B07H46N8HF' 
-	width='100%' height='100px' 
-	style='border:1px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
+	width='100%' height='230px' 
+	style='border:10px solid rgba(0, 0, 0, 0.12);max-width:660px'></iframe>
 	
 
 	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505036593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-youre-askin-for-it" title="Claire Radel You&#x27;re Askin&#x27; For It" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel You&#x27;re Askin&#x27; For It</a></div>
@@ -730,7 +828,7 @@
 	
 	<iframe title="deezer-widget" 
 	src="https://widget.deezer.com/widget/dark/album/551345322" 
-	width="100%" height="100" frameborder="0" 
+	width="100%" height="150" frameborder="0" 
 	allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
 
 </details>
@@ -777,7 +875,20 @@
             style="text-decoration-line: none !important;" href="#facebook-video---semptember-15-2018" aria-label="Anchor">#</a></span>        
     
 </h3>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F237702323578936%2F&show_text=false&width=560&t=549" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClareRadelMusic/videos/237702323578936/?ref=embed_video&t=549"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
+
 <p>&ldquo;So this is my last song, this is the title track of the EP called You&rsquo;re Lookin&rsquo; for It, and it was inspired by the high school drama that when I was on my senior year. So hope you guys enjoy&rdquo;</p>
 <div id="liveshow-come-hangout-important-topic-to-discuss-and-some-shoutouts----march-10-2019" class="anchor"></div>
 <h3 class="relative group">Liveshow, come hangout!!! IMPORTANT topic to discuss and some shoutouts!! :) - March 10, 2019 
@@ -787,7 +898,20 @@
             style="text-decoration-line: none !important;" href="#liveshow-come-hangout-important-topic-to-discuss-and-some-shoutouts----march-10-2019" aria-label="Anchor">#</a></span>        
     
 </h3>
-<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F311229172923308%2F&show_text=false&width=560&t=1779" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClareRadelMusic/videos/311229172923308/?ref=embed_video&t=1779"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
+
 <p>&ldquo;Okay, now I&rsquo;ll do Your&rsquo;ar Askin&rsquo; for It. And this is available on all streaming services. And this is also like the debut. It&rsquo;s like the title track of my debut EP.&rdquo;</p>
 <div id="youre-askin-for-it-original-song-rhum-fest-2019---july-29-2019" class="anchor"></div>
 <h3 class="relative group">You&rsquo;re Askin&rsquo; For It (original song) Rhum Fest 2019 - July 29, 2019 
@@ -816,7 +940,20 @@
             style="text-decoration-line: none !important;" href="#thursday-night-live-happening-now-free-concert-from-the-comfort-of-your-home---march-19-2020" aria-label="Anchor">#</a></span>        
     
 </h3>
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F168318210811142%2F&show_text=false&width=560&t=3637" width="100%" height="335" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClareRadelMusic/videos/168318210811142/?ref=embed_video&t=3637"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
+
 <p>&ldquo;This is called You&rsquo;re Asking For It. This is off of my EP. You should go listen to it, if you want. Oh, so some backstory about this song. I had a friend and there was like a lot of drama my senior year, and she had this thing for this guy, but he had a girlfriend, and everything got like really crazy. But yeah, they&rsquo;re together. The guy that had a girlfriend, like my friend, they&rsquo;re like together now. So I was like, okay, good for you. But, you know, whatever. And they know this song is about them and they think it&rsquo;s so cool. So I&rsquo;m like, okay.&rdquo;</p>
 <div id="thursday-night-live-debuting-a-new-original-song--part-two---april-2-2020" class="anchor"></div>
 <h3 class="relative group">Thursday Night Live!! Debuting a new original song! :) Part two - April 2, 2020 
@@ -826,7 +963,20 @@
             style="text-decoration-line: none !important;" href="#thursday-night-live-debuting-a-new-original-song--part-two---april-2-2020" aria-label="Anchor">#</a></span>        
     
 </h3>
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F880453569063502%2F&show_text=false&width=267&t=1824" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClareRadelMusic/videos/880453569063502/?ref=embed_video&t=1824"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
+
 <p>23:56 &ldquo;We&rsquo;re gonna do an original. And this is You&rsquo;re Asking For It. And I&rsquo;ve probably mentioned this before, but I&rsquo;ll mention it again. But the story behind this one is my senior year of high school. There was a crap ton of drama that I was not really a part of. I was friends with this girl who had a thing for a guy who had a girlfriend. And so he ended up cheating on his girlfriend. And she found out. They were together still. And someone&hellip;&rdquo;</p>
 <p>30:24 Back to my story from a few minutes ago. The one song I was about to play Is called, You&rsquo;re Askin&rsquo; for It. Like I said best friend in high school dated a guy with a girlfriend. They, she found out. And then. They broke up. And they&rsquo;re still together. And it&rsquo;s been like two years now. So it&rsquo;s crazy.&quot;</p>
 <div id="thursday-night-live-singing-some-tunes----may-8-2020" class="anchor"></div>
@@ -837,7 +987,20 @@
             style="text-decoration-line: none !important;" href="#thursday-night-live-singing-some-tunes----may-8-2020" aria-label="Anchor">#</a></span>        
     
 </h3>
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FClaireRadelMusic%2Fvideos%2F1106495563051068%2F&show_text=false&width=267&t=3035" width="100%" height="450" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/ClareRadelMusic/videos/1106495563051068/?ref=embed_video&t=1824"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
+
 <p>&ldquo;One more song, and this is called You&rsquo;re Askin&rsquo; For It, off of my EP. And this is inspired by a friend of mine in high school. There was like a ton of drama my senior year. And she, this guy she liked, had a girlfriend. And he cheated on his girlfriend to be with her. And then they ended up breaking up. And then now they&rsquo;ve been together for like two years. And when I told her that like I wrote a song about it, she was like, &lsquo;Oh that&rsquo;s so cool.&rsquo; I&rsquo;m just like, &lsquo;Okay, well, whatever.&rsquo; But this is called You&rsquo;re Askin&rsquo; For It. So here we go.&rdquo;</p>
 <div id="lyrics" class="anchor"></div>
 <h2 class="relative group">Lyrics 
@@ -977,6 +1140,42 @@ Cause she found out</p>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
+    
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/songs/"
+            title="Songs">Songs</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/demos/"
+            title="Demos">Demos</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/covers/"
+            title="Covers">Covers</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/albums/"
+            title="Albums">Albums</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/tags/"
+            title="Tags">Tags</a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2" href="/about/"
+            title="About Claire">About</a>
+        </li>
+        
+      </ul>
+    </nav>
     
   
   <div class="flex items-center justify-between">

@@ -2,119 +2,349 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev.com/</link>
+    <link>https://claireradelfans.pages.dev/</link>
     <description>Recent content on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 17:50:51 +0200</lastBuildDate><atom:link href="https://claireradelfans.pages.dev.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 17:50:51 +0200</lastBuildDate><atom:link href="https://claireradelfans.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Victory</title>
-      <link>https://claireradelfans.pages.dev.com/songs/no-victory/</link>
+      <link>https://claireradelfans.pages.dev/releases/no-victory/</link>
       <pubDate>Tue, 11 Jul 2023 17:50:51 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/no-victory/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/no-victory/feature.jpg" />
+      <guid>https://claireradelfans.pages.dev/releases/no-victory/</guid>
+      <description>Coming Soon</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/no-victory/feature.jpg" />
     </item>
     
     <item>
       <title>Green Rail</title>
-      <link>https://claireradelfans.pages.dev.com/photos/green-rail/</link>
+      <link>https://claireradelfans.pages.dev/albums/green-rail/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/photos/green-rail/</guid>
-      <description> </description>
+      <guid>https://claireradelfans.pages.dev/albums/green-rail/</guid>
+      <description>BTS</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/green-rail/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Lush</title>
+      <link>https://claireradelfans.pages.dev/albums/lush/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
       
+      <guid>https://claireradelfans.pages.dev/albums/lush/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/lush/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Pick You</title>
+      <link>https://claireradelfans.pages.dev/albums/pick-you/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/pick-you/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/pick-you/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Pink Car</title>
+      <link>https://claireradelfans.pages.dev/albums/pink-car/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/pink-car/</guid>
+      <description>BTS</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/pink-car/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Purple Fog</title>
+      <link>https://claireradelfans.pages.dev/albums/purple-fog/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/purple-fog/</guid>
+      <description>new</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/purple-fog/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Red Velvet</title>
+      <link>https://claireradelfans.pages.dev/albums/red-velvet/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/red-velvet/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/red-velvet/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Slay</title>
+      <link>https://claireradelfans.pages.dev/albums/slay/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/slay/</guid>
+      <description>Look 1</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/albums/slay/feature.webp" />
     </item>
     
     <item>
       <title>About Claire</title>
-      <link>https://claireradelfans.pages.dev.com/posts/about/</link>
+      <link>https://claireradelfans.pages.dev/about/</link>
       <pubDate>Tue, 11 Jul 2023 10:09:29 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/posts/about/</guid>
+      <guid>https://claireradelfans.pages.dev/about/</guid>
       <description>After learning guitar from her older brother and through music lessons at the ripe age of twelve while writing songs at the same time, Claire Radel&amp;rsquo;s musical journey has bloomed ever since.</description>
       
     </item>
     
     <item>
+      <title>About Claire</title>
+      <link>https://claireradelfans.pages.dev/posts/about/</link>
+      <pubDate>Tue, 11 Jul 2023 10:09:29 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/posts/about/</guid>
+      <description>After learning guitar from her older brother and through music lessons at the ripe age of twelve while writing songs at the same time, Claire Radel&amp;rsquo;s musical journey has bloomed ever since.</description>
+      
+    </item>
+    
+    <item>
+      <title>Star Child</title>
+      <link>https://claireradelfans.pages.dev/demos/star-child/</link>
+      <pubDate>Thu, 18 May 2023 10:02:35 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/star-child/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>IV V VI</title>
+      <link>https://claireradelfans.pages.dev/demos/iv-v-vi/</link>
+      <pubDate>Sun, 30 Apr 2023 10:06:05 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/iv-v-vi/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
       <title>Looking No More</title>
-      <link>https://claireradelfans.pages.dev.com/songs/looking-no-more/</link>
+      <link>https://claireradelfans.pages.dev/releases/looking-no-more/</link>
       <pubDate>Fri, 14 Apr 2023 11:16:19 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/looking-no-more/</guid>
-      <description>Releases # more Lives # Live @ Dawghouse Saloon - June 21, 2023 # Lyrics # He thinks I look pretty in sweatpants and a tee</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/looking-no-more/feature.jpg" />
+      <guid>https://claireradelfans.pages.dev/releases/looking-no-more/</guid>
+      <description>Releases # more Behind the Scene # Looking No More - Behind the scenes @ Court Street Recording # The official behind the scenes video of “Looking No More” recording session - Claire Radel and Michael Estok @ Court Street Recording.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/looking-no-more/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Guitar Solo Mi Sol La</title>
+      <link>https://claireradelfans.pages.dev/demos/guitar-solo-mi-sol-la/</link>
+      <pubDate>Thu, 21 Jul 2022 10:41:32 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/guitar-solo-mi-sol-la/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>Creative Coner</title>
+      <link>https://claireradelfans.pages.dev/albums/creative-coner/</link>
+      <pubDate>Sun, 10 Apr 2022 10:49:32 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/albums/creative-coner/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>I II IV</title>
+      <link>https://claireradelfans.pages.dev/demos/i-ii-iv/</link>
+      <pubDate>Mon, 28 Mar 2022 10:58:45 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/i-ii-iv/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>Sol La Do La</title>
+      <link>https://claireradelfans.pages.dev/demos/sol-la-do-la/</link>
+      <pubDate>Mon, 14 Mar 2022 11:01:51 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/sol-la-do-la/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>Break My Heart</title>
+      <link>https://claireradelfans.pages.dev/demos/break-my-heart/</link>
+      <pubDate>Mon, 28 Feb 2022 11:04:58 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/break-my-heart/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+    </item>
+    
+    <item>
+      <title>In the Dark</title>
+      <link>https://claireradelfans.pages.dev/demos/in-the-dark/</link>
+      <pubDate>Tue, 21 Dec 2021 11:06:26 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/in-the-dark/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
     
     <item>
       <title>The One</title>
-      <link>https://claireradelfans.pages.dev.com/songs/the-one/</link>
+      <link>https://claireradelfans.pages.dev/releases/the-one/</link>
       <pubDate>Fri, 11 Jun 2021 11:59:58 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/the-one/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/the-one/</guid>
       <description>building</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/the-one/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/the-one/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Something People Say</title>
+      <link>https://claireradelfans.pages.dev/releases/something-people-say/</link>
+      <pubDate>Thu, 11 Mar 2021 14:48:28 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/releases/something-people-say/</guid>
+      <description>This song is written by Claire</description>
+      
+    </item>
+    
+    <item>
+      <title>I IV</title>
+      <link>https://claireradelfans.pages.dev/demos/i-iv/</link>
+      <pubDate>Fri, 04 Dec 2020 10:28:41 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/demos/i-iv/</guid>
+      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
     
     <item>
       <title>Not What I Want</title>
-      <link>https://claireradelfans.pages.dev.com/songs/not-what-i-want/</link>
+      <link>https://claireradelfans.pages.dev/releases/not-what-i-want/</link>
       <pubDate>Fri, 07 Aug 2020 17:43:30 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/not-what-i-want/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/not-what-i-want/</guid>
       <description>building</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/not-what-i-want/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/not-what-i-want/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Guilitine</title>
+      <link>https://claireradelfans.pages.dev/releases/guiltine/</link>
+      <pubDate>Fri, 12 Jun 2020 14:50:40 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/releases/guiltine/</guid>
+      <description>You can here Claire&amp;rsquo;s voice in the song.</description>
+      
     </item>
     
     <item>
       <title>Like You Love Me</title>
-      <link>https://claireradelfans.pages.dev.com/songs/like-you-love-me/</link>
+      <link>https://claireradelfans.pages.dev/releases/like-you-love-me/</link>
       <pubDate>Wed, 03 Jun 2020 17:43:12 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/like-you-love-me/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/like-you-love-me/</guid>
       <description>building</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/like-you-love-me/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/like-you-love-me/feature.jpg" />
     </item>
     
     <item>
       <title>You Re Askin for It</title>
-      <link>https://claireradelfans.pages.dev.com/songs/you-re-askin-for-it/</link>
+      <link>https://claireradelfans.pages.dev/releases/you-re-askin-for-it/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:35 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/you-re-askin-for-it/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/you-re-askin-for-it/</guid>
       <description>Releases # more Claire Radel · Claire Radel You&amp;#x27;re Askin&amp;#x27; For It Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/you-re-askin-for-it/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/you-re-askin-for-it/feature.jpg" />
     </item>
     
     <item>
       <title>The One for Me</title>
-      <link>https://claireradelfans.pages.dev.com/songs/the-one-for-me/</link>
+      <link>https://claireradelfans.pages.dev/releases/the-one-for-me/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:08 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/the-one-for-me/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/the-one-for-me/</guid>
       <description>Releases # more Claire Radel · Claire Radel The One For Me Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/the-one-for-me/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/the-one-for-me/feature.jpg" />
     </item>
     
     <item>
       <title>Someone&#39;s Gonna Love You</title>
-      <link>https://claireradelfans.pages.dev.com/songs/someones-gonna-love-you/</link>
+      <link>https://claireradelfans.pages.dev/releases/someones-gonna-love-you/</link>
       <pubDate>Fri, 14 Sep 2018 11:59:44 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/someones-gonna-love-you/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/someones-gonna-love-you/</guid>
       <description>Release # more Claire Radel · Claire Radel Someone&amp;#x27;s Gonna Love You Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/someones-gonna-love-you/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/someones-gonna-love-you/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Nashville - 2017</title>
+      <link>https://claireradelfans.pages.dev/covers/nashville/</link>
+      <pubDate>Sat, 01 Apr 2017 11:59:58 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/covers/nashville/</guid>
+      <description> Late Night on Music Row with TJ Jill and Claire # #GirlPower Event Featuring Nashville Artists Management Artist&amp;hellip; # </description>
+      
     </item>
     
     <item>
       <title>Your Lovin and You</title>
-      <link>https://claireradelfans.pages.dev.com/songs/your-lovin-and-you/</link>
+      <link>https://claireradelfans.pages.dev/releases/your-lovin-and-you/</link>
       <pubDate>Wed, 28 Dec 2016 12:00:46 +0200</pubDate>
       
-      <guid>https://claireradelfans.pages.dev.com/songs/your-lovin-and-you/</guid>
+      <guid>https://claireradelfans.pages.dev/releases/your-lovin-and-you/</guid>
       <description>Release # more Claire Radel · Your Lovin and You (Original Song) Lives # Claire&amp;rsquo;s recording &amp;ldquo;Your Lovin&amp;rsquo; and You&amp;rdquo; - July 17, 2016 # So honored to be chosen for this year&amp;rsquo;s compilation album at Orangehaus Music Business Camp!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev.com/songs/your-lovin-and-you/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://claireradelfans.pages.dev/releases/your-lovin-and-you/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Blank Space, Style Mashup</title>
+      <link>https://claireradelfans.pages.dev/covers/blank-space-style-mashup/</link>
+      <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/covers/blank-space-style-mashup/</guid>
+      <description>Claire &amp;ldquo;Blank Space, Style Mashup&amp;rdquo;</description>
+      
+    </item>
+    
+    <item>
+      <title>Come away with me</title>
+      <link>https://claireradelfans.pages.dev/covers/come-away-with-me/</link>
+      <pubDate>Sun, 18 Jan 2015 12:19:53 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/covers/come-away-with-me/</guid>
+      <description>Claire &amp;ldquo;Come away with me&amp;rdquo;</description>
+      
+    </item>
+    
+    <item>
+      <title>Come around</title>
+      <link>https://claireradelfans.pages.dev/covers/come-around/</link>
+      <pubDate>Sun, 21 Dec 2014 12:19:53 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/covers/come-around/</guid>
+      <description>Claire &amp;ldquo;Come around&amp;rdquo;</description>
+      
+    </item>
+    
+    <item>
+      <title>Riptide</title>
+      <link>https://claireradelfans.pages.dev/covers/riptide/</link>
+      <pubDate>Sat, 20 Dec 2014 12:19:53 +0200</pubDate>
+      
+      <guid>https://claireradelfans.pages.dev/covers/riptide/</guid>
+      <description>Claire &amp;ldquo;riptide&amp;rdquo;</description>
+      
     </item>
     
   </channel>
