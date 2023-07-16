@@ -13,9 +13,9 @@ tags:
 {{< applemusic fullid="someones-gonna-love-you/1435502279?i=1435502284" >}}
 
 <details><summary>more</summary>
-	{{< amazonmusic id="B07H48V6XB" >}}
-	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505037328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-someones-gonna-love-you" title="Claire Radel Someone&#x27;s Gonna Love You" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel Someone&#x27;s Gonna Love You</a></div>
+	{{< soundcloud id="505037328" >}}
 	{{< deezer id="551345332" >}}
+	{{< amazonmusic id="B07H48V6XB" >}}
 </details>
 
 ## Behind The Scenes
@@ -28,32 +28,31 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 ## Lives
 
-### "Someone's Gonna Love You" (original) LIVE BlueBird Cafe - November 5, 2017
+### BlueBird Cafe - November 5, 2017
 
 {{< youtube id="k6H6o5W7UUs" >}}
 
 So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Nashville, so excited to share this with you!!
 
-### Facebook Video - Semptember 15, 2018
+### Debut EP Release Party - Semptember 15, 2018
 
-{{< facebookvideoh userid="ClaireRadelMusic" id="237702323578936" start="271" >}}
-
+video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here (time = 4min 30s)
 
 "This next song is called Someone's Gonna Love You, and I wrote it kind of about something I was going through at the time, along with another friend of mine, who were both having boy issues at the same time, so it's kind of inspired by that, and I hope you guys enjoy."
 
-### SOMEONES GONNA LOVE YOU LIVE | SPECKLED T’S LOUISIANA - October 28, 2018
+### SPECKLED T’S LOUISIANA - October 28, 2018
 
 {{< youtube id="MzTeYXGAw9s" >}}
 
 Here is my live version of “Someone’s Gonna Love You” off of my debut EP “You’re Askin’ For It” AVAILABLE EVERYWHERE!! Thank you to the band Geaux West for learning my song and to my awesome Uncle who is playing the keyboard for getting this arranged!!! Had a blast! DONT FORGET TO SUBSCRIBE ;)
 
-### Hey y’all!! Liveshow, lets hangout! I will be guesting some of you if you’d like! - May 7, 2019
+### Live - May 7, 2019
 
 {{< facebookvideov userid="ClaireRadelMusic" id="410878236160448" start="666" >}}
 
 "I'm going to stop talking and try to sing something for you guys. I might be able to do one of my songs on piano. We'll see how this goes. Not guaranteeing anything awesome, but. Okay, see, we're already off to a rough start. I haven't played this intro in a while. It's a dramatic intro, but..."
 
-### Second Thursday Night Live!! Come hangout if you can :) - March 26, 2020
+### Live - March 26, 2020
 
 {{< facebookvideoh userid="ClaireRadelMusic" id="681790179220550" start="203" >}}
 

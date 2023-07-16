@@ -13,9 +13,9 @@ tags:
 {{< applemusic fullid="youre-askin-for-it/1435502279?i=1435502283" >}}
 
 <details><summary>more</summary>
-	{{< amazonmusic id="B07H46N8HF" >}}
-	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505036593&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-youre-askin-for-it" title="Claire Radel You&#x27;re Askin&#x27; For It" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel You&#x27;re Askin&#x27; For It</a></div>
+	{{< soundcloud id="505036593" >}}
 	{{< deezer id="551345322" >}}
+	{{< amazonmusic id="B07H46N8HF" >}}
 </details>
 
 ## Behind The Scenes
@@ -28,31 +28,31 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 ## Lives
 
-### Facebook Video - Semptember 15, 2018
+### Debut EP Release Party  - Semptember 15, 2018
 
-{{< facebookvideoh userid="ClareRadelMusic" id="237702323578936" start="549">}}
+video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here (time = 9min 49s)
 
 "So this is my last song, this is the title track of the EP called You're Lookin' for It, and it was inspired by the high school drama that when I was on my senior year. So hope you guys enjoy"
 
-### Liveshow, come hangout!!! IMPORTANT topic to discuss and some shoutouts!! :) - March 10, 2019
+### Live - March 10, 2019
 
 {{< facebookvideoh userid="ClareRadelMusic" id="311229172923308" start="1779" >}}
 
 "Okay, now I'll do Your'ar Askin' for It. And this is available on all streaming services. And this is also like the debut. It's like the title track of my debut EP."
 
-### You're Askin' For It (original song) Rhum Fest 2019 - July 29, 2019
+### Rhum Fest 2019 - July 29, 2019
 
 {{< youtube id="U6ePOpBS7XM" >}}
 
 "You're Askin' For It" original song. Performed at Rhum Fest with Sami Soutar, (bass/vocals) Nick Johnson, (guitar) and James Lightsey (drums).
 
-### Thursday Night Live! Happening now, free concert from the comfort of your home! - March 19, 2020
+### Live - March 19, 2020
 
 {{< facebookvideoh userid="ClareRadelMusic" id="168318210811142" start="3637" >}}
 
 "This is called You're Asking For It. This is off of my EP. You should go listen to it, if you want. Oh, so some backstory about this song. I had a friend and there was like a lot of drama my senior year, and she had this thing for this guy, but he had a girlfriend, and everything got like really crazy. But yeah, they're together. The guy that had a girlfriend, like my friend, they're like together now. So I was like, okay, good for you. But, you know, whatever. And they know this song is about them and they think it's so cool. So I'm like, okay."
 
-### Thursday Night Live!! Debuting a new original song! :) Part two - April 2, 2020
+### Live - April 2, 2020
 
 {{< facebookvideov userid="ClareRadelMusic" id="880453569063502" start="1824" >}}
 
@@ -60,7 +60,7 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 30:24 Back to my story from a few minutes ago. The one song I was about to play Is called, You're Askin' for It. Like I said best friend in high school dated a guy with a girlfriend. They, she found out. And then. They broke up. And they're still together. And it's been like two years now. So it's crazy."
 
-### Thursday night live!! Singing some tunes 🙂 - May 8, 2020
+### Live - May 8, 2020
 
 {{< facebookvideov userid="ClareRadelMusic" id="1106495563051068" start="1824" >}}
 

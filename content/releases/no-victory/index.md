@@ -7,13 +7,12 @@ tags:
 - new
 ---
 
-Coming Soon
+> Coming Soon
+>
 
-{{< instagram id="CscvTyWArah" >}}
+{{< instagramc id="CscvTyWArah" >}}
 
 ✨snippet of a song I wrote with [@cradlecat](https://www.instagram.com/cradlecat/) coming soon!!!! Thank you for having me tonight [@songsmithsnash](https://www.instagram.com/songsmithsnash/) [@sonnysnashville](https://www.instagram.com/sonnysnashville/) it was so much fun, everyone was awesome!! Thank you to my friend [@dasiemusic](https://www.instagram.com/dasiemusic/) for the video creds and coming out to support!!✨🥰
-
-## Pre-save
 
 {{< instagramc id="CudWBR4Aj00" >}}
 

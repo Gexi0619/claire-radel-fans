@@ -4,6 +4,9 @@ date: 2016-12-28T12:00:46+02:00
 draft: false
 tags:
 - release
+- nashville
+- bluebird
+
 ---
 
 ## Release
@@ -13,22 +16,23 @@ tags:
 {{< applemusic fullid="your-lovin-and-you/1191146057?i=1191146061" >}}
 
 <details><summary>more</summary>
-	{{< amazonmusic id="B01N301AZR" >}}
-    <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274181983&color=%23806c64&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/your-lovin-and-you-original-song" title="Your Lovin and You (Original Song)" target="_blank" style="color: #cccccc; text-decoration: none;">Your Lovin and You (Original Song)</a></div>
-    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_5537880?widget_id=55&pwc[song_ids]=26846983&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+	{{< soundcloud id="274181983" >}}
 	{{< deezer id="14964209" >}}
+	{{< amazonmusic id="B01N301AZR" >}}
+    <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://www.reverbnation.com/widget_code/html_widget/artist_5537880?widget_id=55&pwc[song_ids]=26846983&context_type=song&pwc[size]=small" style="width:0px;min-width:100%;max-width:100%;"></iframe>
+
 </details>
 
 
 ## Lives
 
-### Claire's recording "Your Lovin' and You" - July 17, 2016
+### Claire's recording - July 17, 2016
 
 {{< youtube id="7qTJ7fwStuo" >}}
 
 So honored to be chosen for this year's compilation album at Orangehaus Music Business Camp!!! This is my first studio recording, and I hope you all enjoy it! I will be putting out links so you download it! 🙂 Stay tuned!
 
-### "Your Lovin and You" (original) BlueBird Cafe - November 6, 2016
+### BlueBird Cafe - November 6, 2016
 
 {{< youtube id="r4vaZzpLvRo" >}}
 
@@ -42,9 +46,15 @@ Hey everyone!! I have a pretty exciting video to share with you! This is my TV i
 
 ### My first performance in Memphis at South Main Sounds! - July 1, 2017
 
-{{< facebookvideoh userid="ClaireRadelMusic" id="868292159990447" >}}
+{{< facebookvideoh userid="ClaireRadelMusic" id="868292159990447" start="94" >}}
 
 My first performance in Memphis at South Main Sounds!
+
+### Live - April 15, 2023
+
+{{< facebookvideov userid="ClaireRadelMusic" id="247392071005188" start="2308" >}}
+
+What was the first song you played at Bluebird? Uh, that's been a really long time ago. The first time I played at Bluebird was in like 2017. Um, I think I, what did I do then? I probably did Your Lovin' and You, which is like the first song I put out. I haven't played that one in a really long time. Um, but I can attempt it. We'll see how it goes. This is like throwback to me when I was like, I think I wrote this when I was like 16. And it was after, it was after like this open mic night that I had that I went to. And I met this guy and I thought he was cute. And then I went home and I like wrote this song down. I don't know if that's like, has any correlation to the song. I don't really think it does. But, you know what? I can say that that guy inspired it. Kind of. Just cause he was cute. I don't know. Maybe not. Um, but anyways. I just remember that. I didn't have any paper, like I didn't have any notebook paper to write it down on. So I remember, um, I think I still have it, but I think I wrote it down on like an envelope that I found. Um, and I just like wrote it all down and then I woke up the next day and I like just put a melody to it. And then it, and then there it was. So that's the little backstory behind that song that I don't know if I've shared before. Um, but anyways. I'll attempt to play it. I haven't played it in a really long time.
 
 ## Lyrics
 

@@ -13,9 +13,9 @@ tags:
 {{< applemusic fullid="the-one-for-me/1435502279?i=1435502282" >}}
 
 <details><summary>more</summary>
-	{{< amazonmusic id="B07H48S2R3" >}}
-	<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505035258&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/claire-radel" title="Claire Radel" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel</a> · <a href="https://soundcloud.com/claire-radel/claire-radel-the-one-for-me" title="Claire Radel The One For Me" target="_blank" style="color: #cccccc; text-decoration: none;">Claire Radel The One For Me</a></div>
+	{{< soundcloud id="505035258" >}}
 	{{< deezer id="551345312" >}}
+	{{< amazonmusic id="B07H48S2R3" >}}
 </details>
 
 ## Behind The Scenes
@@ -34,38 +34,38 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 My first performance in Memphis at South Main Sounds!
 
-### "The One For Me" (original song) - February 12, 201
+### Ukulele (original song) - February 12, 201
 
 {{< youtube id="XxxwIo9-Dhw" >}}
 
 Hey guys!!!! Sorry for my iffy uke playing I dont use it very often, but this song was originaly written on it!!! I hope you enjoy this song and think if that special someone you might have in your life!!! Happy Valentines day!! much love!
 xx -Claire
 
-### Facebook Video - September 15, 2018
+### Debut EP Release Party - September 15, 2018
 
-{{< facebookvideoh userid="ClaireRadelMusic" id="237702323578936" start="0" >}}
+video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here
 
 "so this first song that I'll be singing is called The One for Me and it's basically about like you know like that one person is like the one for you you know like everything just seems like really right and the relationship and I hope you guys enjoy"
 
-### Afternoon liveshow!!!! Wooohoo 🎉🎉🎉🎶 - February 6, 2019
+### Live - February 6, 2019
 
 {{< facebookvideov userid="ClaireRadelMusic" id="245508582995665" start="396" >}}
 
 "Fun fact, I actually originally wrote the one for me on ukulele. Fun fact of the day. I'm trying to think of how I did it, though, because it's different. I think it's different than what I do on guitar, because I can't remember. Because for the chorus on guitar, I don't have an Am in there, but then when I do it on the ukulele, I add an Am in the chorus. So, I'm going to do that."
 
-### funfact for day 7: my song “The One For Me” was originally written on ukulele!! - April 16, 2019
+### funfact for day 7 - April 16, 2019
 
 {{< facebookvideov userid="ClaireRadelMusic" id="2281980262128950" start="0" >}}
 
 #funfact for day 7: my #song “The One For Me” was originally #written on #ukulele!!
 
-### Thursday night live!! Singing some tunes 🙂 - May 7, 2020
+### Live - May 7, 2020
 
 {{< facebookvideov userid="ClaireRadelMusic" id="1106495563051068" start="699" >}}
 
 "I haven't played this one as often. But I'll do The One for Me off of my EP. So..."
 
-### Looking No More - Behind the scenes video premier - April 15, 2023
+### Live - April 15, 2023
 
 {{< facebookvideov userid="ClaireRadelMusic" id="247392071005188" start="3556" >}}
 

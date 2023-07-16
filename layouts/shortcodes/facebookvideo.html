@@ -1,0 +1,14 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $userid := .Get "userid" | default (.Get 0) }}
+{{ $start := .Get "start" | default 0 }}
+{{ $title := .Get "title" | default "Facebook Video" }}
+
+
+<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+<div class="fb-video"
+    data-href="https://www.facebook.com/{{ $userid }}/videos/{{ $id }}/?ref=embed_video&t={{ $start }}"
+    data-width="auto"
+    data-lazy="true"
+    loading="lazy"
+    data-show-captions="false">
+</div>
