@@ -26,28 +26,33 @@ Um, I'm gonna play The One, um, which was my last release, and this song is the 
 
 ## Lyrics
 
-[0.00s -> 13.00s]  I caught myself scrolling through the photos of you that you recently posted
-[13.00s -> 18.00s]  And I didn't feel a thing
-[18.00s -> 26.00s]  I thought how I'm glad that I'm no longer with you
-[26.00s -> 33.00s]  I guess looks can be deceiving
-[33.00s -> 41.00s]  I'm glad that I'm no longer grieving
-[41.00s -> 61.00s]  I'm glad that I'm no longer grieving
-[61.00s -> 68.00s]  Had to take some time, figure some things out
-[68.00s -> 73.00s]  It took a while, but now I'm
-[73.00s -> 78.00s]  Doing better than I ever have
-[78.00s -> 85.00s]  And that's all thanks to you
-[85.00s -> 90.00s]  You were my everything
-[90.00s -> 95.00s]  And I was too blind to see that
-[95.00s -> 100.00s]  You were no good for me
-[100.00s -> 107.00s]  And I still want you to be the one
-[107.00s -> 114.00s]  Just you and I
-[114.00s -> 120.00s]  You make me feel something, I get it
-[120.00s -> 127.00s]  I don't know if I'll ever get that back
-[127.00s -> 136.00s]  I don't know if I'll ever get you back
-[136.00s -> 140.00s]  You were my everything
-[140.00s -> 146.00s]  And I was too blind to see that
-[146.00s -> 150.00s]  You were no good for me
-[150.00s -> 160.00s]  And I still want you to be the one
-[177.00s -> 186.00s]  Even to this day, they all think I've lost it
-[186.00s -> 194.00s]  But the only thing I've lost is your love
-[206.00s -> 211.00s]  Thanks for watching!
+I caught myself scrolling through the photos of you that you recently posted  
+And I didn't feel a thing I thought how I'm glad that I'm  
+No longer with you I guess looks can be deceiving  
+I'm glad that I'm no longer grieving  
+
+I'm glad that I'm no longer grieving  
+Had to take some time to figure some things out  
+It took a while but now I'm  
+Doing better than I ever have  
+And that's all thanks to you  
+
+You were my everything and I  
+Was too blind to see that you  
+Were no good for me and I still  
+Want you to be the one  
+Just you and I  
+You made me feel something and I get it  
+I don't know if I'll ever get that back  
+I don't know if I'll ever get you back  
+
+You were my everything and I  
+Was too blind to see that you  
+Were no good for me and I still  
+Want you to be the one (The one)  
+The one  
+The one (The one)  
+The one  
+
+Even to this day they all think I've lost it  
+But the only thing I've lost is your love  

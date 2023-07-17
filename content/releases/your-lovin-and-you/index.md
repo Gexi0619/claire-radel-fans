@@ -26,7 +26,7 @@ tags:
 
 ## Lives
 
-### Claire's recording - July 17, 2016
+### Orangehaus Music Business Camp - July 17, 2016
 
 {{< youtube id="7qTJ7fwStuo" >}}
 
@@ -44,7 +44,7 @@ So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Na
 
 Hey everyone!! I have a pretty exciting video to share with you! This is my TV interview I had with Nashville Entertainment Weekly hosts Jill Santibanez and TJ Cates on Music Row in Nashville! They are also my managment team @NashvilleArtistManagment!! I really hope to head to Nashville in January to schedule more interviews and play at some open mics! Stay tuned for new stuff next week! Hope you guys enjoy!! Xx- Claire
 
-### My first performance in Memphis at South Main Sounds! - July 1, 2017
+### Memphis at South Main Sounds - July 1, 2017
 
 {{< facebookvideoh userid="ClaireRadelMusic" id="868292159990447" start="94" >}}
 

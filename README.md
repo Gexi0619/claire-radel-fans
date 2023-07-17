@@ -1,6 +1,4 @@
-# Claire Radel Fans
-
-This is a fanpage of Claire Radel. I
+This is a fanpage of Claire Radel. 
 
 ## Support
 
@@ -13,11 +11,8 @@ This is a fanpage of Claire Radel. I
 ### Pages
 
 - [ ] Releases' pages building
-
 - [ ] Demos' pages building
-
 - [ ] Covers' pages building
-
 - [ ] Albums' pages building
 
 ### Bugs
@@ -29,12 +24,12 @@ This is a fanpage of Claire Radel. I
 - [ ] album's responsitive
 - [x] instagram shortcode layout
   seems no problem
-- [ ] facebook div
+- [x] facebook div
 - [ ] menu bar on safari
 
 ### New Features
 
-- [ ] add text on list
+- [x] add text on list
 - [ ] series of live covers
 - [x] [add text on homepage](https://blowfish.page/docs/content-examples/)
   use hugo

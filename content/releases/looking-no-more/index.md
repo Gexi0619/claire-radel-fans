@@ -47,20 +47,20 @@ Just finished writing this happy song…Say whatttt! This is called “Looking N
 
 > Claire Radel Fans comment: The chords are totally different!
 
-### Claire Radel Live at 615 Recording Studio - Aug 18, 2022
+### 615 Recording Studio - Aug 18, 2022
 
 {{< youtube id="XZVoqSJ27_8" start="508">}}
 
 Next song is "Looking No More", and this is an original. This one is my next single, I'm not sure, is not coming out yet, but I'm still working on that. I'm really exated play this one, and I hope you guys enjoy. This song I wrote, kind of based of my own relasionship, relasionship of my friends was been in, I'm really proud of this one, I hop you guys enjoyu it.
 
-### listeningroomcafepf - Nov 27 2022
+### listening room cafe pf - Nov 27 2022
 
 {{< instagram id="Clcs8RFA8Ul" >}}
 
 Start with the song call "Looking No More". I wrote this kind of about my relasionship, and other relasionships that my friends have, hope you guys enjoy.
 
 
-### Live @ Dawghouse Saloon - June 21, 2023
+### Dawghouse Saloon - June 21, 2023
 
 {{< facebookvideov userid="ClareRadelMusic" id="648133960184812" start="446">}}
 
