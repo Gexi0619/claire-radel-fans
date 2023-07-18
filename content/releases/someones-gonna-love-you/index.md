@@ -28,11 +28,25 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 ## Lives
 
+### Denver Days - August 13, 2017
+
+{{< facebookvideoh userid="ClareRadelMusic" id="893023054184024" >}}
+
+Denver Days was a blast! Thanks to all who came out to hear me play. Love this video of my original "Someone's Gonna Love You" with the dad dancing with his little girl in the background! #festivalfun #dancelikenooneswatching
+
 ### BlueBird Cafe - November 5, 2017
 
 {{< youtube id="k6H6o5W7UUs" >}}
 
 So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Nashville, so excited to share this with you!!
+
+🎤#tb to 2nd time playing at the magical @bluebirdcafetn my original song "Someone's Gonna Love You" stay tuned for the whole video on #Youtube sooooon!! Let me know what you think below! #songwriter #Singer #Nashville #MusicRow #MusicCity #TheBlueBirdCafe🎤
+
+### July 10, 2018
+
+{{< facebookvideov userid="ClareRadelMusic" id="1082201655266162" >}}
+
+RECAP of #Saturday!!! This is an original song that will be on my EP! I can’t wait, stay tuned 💕😊
 
 ### Debut EP Release Party - Semptember 15, 2018
 

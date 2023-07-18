@@ -28,6 +28,13 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 
 ## Lives
 
+### March 24, 2018
+
+{{< facebookvideov userid="ClareRadelMusic" id="1010308599122135" >}}
+
+Sneak peek of my new song "Askin' For It" hope you enjoy! Let me know what you think in the comments below! 😉🎶💕
+#music #Country #youtube #video #love #singer #Indiana #solo #guitar #Nashville #songwriter #BeYourself #claireradelmusic #joy #dream #fun #melody
+
 ### Debut EP Release Party  - Semptember 15, 2018
 
 video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here (time = 9min 49s)
