@@ -10,7 +10,7 @@ This is a fanpage of Claire Radel.
 
 ### Pages
 
-- [ ] Releases' pages building
+- [x] Releases' pages building
 - [ ] Demos' pages building
 - [ ] Covers' pages building
 - [ ] Albums' pages building
@@ -34,4 +34,4 @@ This is a fanpage of Claire Radel.
 - [x] [add text on homepage](https://blowfish.page/docs/content-examples/)
   use hugo
 - [ ] like system
-- [ ] search system
+- [x] search system
