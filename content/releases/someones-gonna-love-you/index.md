@@ -48,6 +48,12 @@ So excited that I got to play at the BlueBird Cafe!!! This is from my trip to Na
 
 RECAP of #Saturday!!! This is an original song that will be on my EP! I can’t wait, stay tuned 💕😊
 
+### Piano - August 2, 2018
+
+{{< facebookvideoh userid="ClareRadelMusic" id="1106306019522392" >}}
+
+This song is honestly my favorite since it’s so personal!! Here’s a #piano version of my #original #song “Someone’s Gonna #Love You” I can’t wait for you to hear the finished cut off my #first #EP coming to you soon!!!
+
 ### Debut EP Release Party - Semptember 15, 2018
 
 video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here (time = 4min 30s)

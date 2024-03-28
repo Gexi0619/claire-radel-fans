@@ -13,21 +13,26 @@
 [[main]]
   name = "Releases"
   pageRef = "releases"
+  pre = "music"
   weight = 10
 
 [[main]]
   name = "Demos"
   pageRef = "demos"
+#  pre = "lightbulb"
+  pre = "pencil"
   weight = 20
 
 [[main]]
   name = "Covers"
   pageRef = "covers"
+  pre = "mug-hot"
   weight = 30
 
 [[main]]
   name = "Albums"
   pageRef = "albums"
+  pre = "image"
   weight = 40
 
 [[main]]

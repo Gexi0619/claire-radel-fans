@@ -35,6 +35,12 @@ I had such a GREAT time making my first EP!!! All of these songs are so personal
 Sneak peek of my new song "Askin' For It" hope you enjoy! Let me know what you think in the comments below! 😉🎶💕
 #music #Country #youtube #video #love #singer #Indiana #solo #guitar #Nashville #songwriter #BeYourself #claireradelmusic #joy #dream #fun #melody
 
+### Kokomo Gingerbread House Bakery - August 4, 2018
+
+{{< facebookvideov userid="ClareRadelMusic" id="1108363209316673" >}}
+
+Hey Kokomo! Come on out til 8:30 pm Gingerbread House Bakery! I’ll be playing some originals while you sample some sweets! #youreaskinforit
+
 ### Debut EP Release Party  - Semptember 15, 2018
 
 video [link](https://www.facebook.com/ClaireRadelMusic/videos/237702323578936/) here (time = 9min 49s)

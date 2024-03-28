@@ -35,3 +35,4 @@ This is a fanpage of Claire Radel.
   use hugo
 - [ ] like system
 - [x] search system
+- [ ] homepage bigger spotify & apple music icon

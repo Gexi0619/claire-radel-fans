@@ -15,7 +15,8 @@ enableCodeCopy = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageZoom = false
+disableImageOptimization = false
 
 defaultBackgroundImage = "/img/1.webp" # used as default for background images 
 defaultFeaturedImage = "" # used as default for featured images in all articles
@@ -37,7 +38,7 @@ defaultFeaturedImage = "" # used as default for featured images in all articles
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/2.webp" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/songs/"
@@ -71,8 +72,9 @@ defaultFeaturedImage = "" # used as default for featured images in all articles
   showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
-  showSummary = true
+  showSummary = false
 #  sharingLinks = [ "twitter", "pinterest", "facebook", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = true
