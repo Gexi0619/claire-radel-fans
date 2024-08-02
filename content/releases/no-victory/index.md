@@ -1,24 +1,21 @@
 ---
 title: "No Victory"
-date: 2023-07-11T17:50:51+02:00
+date: 2023-09-02T17:50:51+02:00
 draft: false
 tags:
-- coming soon
-- new
+- release
 ---
 
 ## Releases
 
-> Coming Soon
+{{< spotify id="4iDSBpKyzic7necgVp5ZSI" >}}
 
-{{< instagramc id="CscvTyWArah" >}}
+{{< applemusic fullid="no-victory/1703494324?i=1703494325" >}}
 
-✨snippet of a song I wrote with [@cradlecat](https://www.instagram.com/cradlecat/) coming soon!!!! Thank you for having me tonight [@songsmithsnash](https://www.instagram.com/songsmithsnash/) [@sonnysnashville](https://www.instagram.com/sonnysnashville/) it was so much fun, everyone was awesome!! Thank you to my friend [@dasiemusic](https://www.instagram.com/dasiemusic/) for the video creds and coming out to support!!✨🥰
-
-{{< instagramc id="CudWBR4Aj00" >}}
-
-Pre-save coming soon :)
-
+<details><summary>more</summary>
+	{{< amazonmusic id="B0CG4W55XP" >}}
+	{{< deezer id="478476485" >}}
+</details>
 ## Lives
 
 ### Live - March, 26 2020
@@ -50,3 +47,9 @@ This one is one I haven't played in a minute, oof, I just knocked my guitar on t
 {{< facebookvideov userid="ClareRadelMusic" id="882828435523563" start="446">}}
 
 So this is another, I'll do another newer song, that I also did with Marcus. And this is called No Victory. So I hope you guys like this one too. 
+
+### Live - May 20, 2023
+
+{{< facebookvideov userid="ClareRadelMusic" id="782819673518026">}}
+
+✨snippet of a song I wrote with [@cradlecat](https://www.instagram.com/cradlecat/) coming soon!!!! Thank you for having me tonight [@songsmithsnash](https://www.instagram.com/songsmithsnash/) [@sonnysnashville](https://www.instagram.com/sonnysnashville/) it was so much fun, everyone was awesome!! Thank you to my friend [@dasiemusic](https://www.instagram.com/dasiemusic/) for the video creds and coming out to support!!✨🥰

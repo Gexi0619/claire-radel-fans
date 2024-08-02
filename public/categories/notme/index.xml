@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notme on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/notme/</link>
+    <description>Recent content in Notme on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/notme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It just takes a little support and encouragement</title>
+      <link>http://localhost:1313/arch/it-just-takes-a-little-support-and-encouragement/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/it-just-takes-a-little-support-and-encouragement/</guid>
+      <description>I like to think my wife still turns heads at 37.</description>
+      
+    </item>
+    
+    <item>
+      <title>It only took 20 years</title>
+      <link>http://localhost:1313/arch/it-only-took-20-years/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/it-only-took-20-years/</guid>
+      <description>This is my first attempt at a story, and I think one of the hardest parts is picking a subject/title.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

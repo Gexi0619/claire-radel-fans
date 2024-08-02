@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deray on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/deray/</link>
-    <description>Recent content in deray on Claire Radel Fans</description>
+    <title>Deray on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/deray/</link>
+    <description>Recent content in Deray on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2020 14:50:40 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/deray/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Fri, 12 Jun 2020 14:50:40 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/deray/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guilitine</title>
-      <link>https://claireradelfans.pages.dev/releases/guiltine/</link>
+      <link>http://localhost:1313/releases/guiltine/</link>
       <pubDate>Fri, 12 Jun 2020 14:50:40 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/guiltine/</guid>
+      
+      <guid>http://localhost:1313/releases/guiltine/</guid>
       <description>You can here Claire&amp;rsquo;s voice in the song.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/guiltine/feature.jpg" />
     </item>
+    
   </channel>
 </rss>

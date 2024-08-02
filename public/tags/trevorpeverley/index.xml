@@ -1,26 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trevorpeverley on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/trevorpeverley/</link>
-    <description>Recent content in trevorpeverley on Claire Radel Fans</description>
+    <title>Trevorpeverley on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/trevorpeverley/</link>
+    <description>Recent content in Trevorpeverley on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Mar 2022 10:58:45 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/trevorpeverley/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 11:16:19 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/trevorpeverley/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To You</title>
+      <link>http://localhost:1313/releases/to-you/</link>
+      <pubDate>Thu, 28 Mar 2024 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/releases/to-you/</guid>
+      <description>Releases # more Behind the Scene # Some quick behind the scenes in the studio for my upcoming song “To You”!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/to-you/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Haven&#39;t Talked</title>
+      <link>http://localhost:1313/demos/havent-talked/</link>
+      <pubDate>Sat, 19 Aug 2023 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/havent-talked/</guid>
+      <description>today’s track!</description>
+      
+    </item>
+    
+    <item>
+      <title>Rainy Day Vibes</title>
+      <link>http://localhost:1313/demos/rainy-day-vibes/</link>
+      <pubDate>Tue, 15 Aug 2023 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/rainy-day-vibes/</guid>
+      <description>Rainy day vibes - created with track with @trevorpeverley yesterday.</description>
+      
+    </item>
+    
     <item>
       <title>I II IV</title>
-      <link>https://claireradelfans.pages.dev/demos/i-ii-iv/</link>
+      <link>http://localhost:1313/demos/i-ii-iv/</link>
       <pubDate>Mon, 28 Mar 2022 10:58:45 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/i-ii-iv/</guid>
+      
+      <guid>http://localhost:1313/demos/i-ii-iv/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>In the Dark</title>
-      <link>https://claireradelfans.pages.dev/demos/in-the-dark/</link>
+      <link>http://localhost:1313/demos/in-the-dark/</link>
       <pubDate>Tue, 21 Dec 2021 11:06:26 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/in-the-dark/</guid>
+      
+      <guid>http://localhost:1313/demos/in-the-dark/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
   </channel>
 </rss>

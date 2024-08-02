@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hooked on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/hooked/</link>
+    <description>Recent content in Hooked on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/hooked/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Sing and Songwriter</title>
+      <link>http://localhost:1313/arch/the-sing-and-songwriter/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/the-sing-and-songwriter/</guid>
+      <description>My father is a real rock fan and did not miss a concert in our city when a famous or less famous band in our city gave the honor.</description>
+      
+    </item>
+    
+    <item>
+      <title>The girl in the forest</title>
+      <link>http://localhost:1313/arch/the-girl-in-the-forest/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/the-girl-in-the-forest/</guid>
+      <description>On account of the current events an episode of my life comes into my mind which happened more than twenty years ago.</description>
+      
+    </item>
+    
+    <item>
+      <title>Holidays on Nehulonia</title>
+      <link>http://localhost:1313/arch/holidays-on-nehulonia/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/holidays-on-nehulonia/</guid>
+      <description>Martin and I booked a trip to Nehulonia .</description>
+      
+    </item>
+    
+  </channel>
+</rss>

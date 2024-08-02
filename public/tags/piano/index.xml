@@ -1,47 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>piano on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/piano/</link>
-    <description>Recent content in piano on Claire Radel Fans</description>
+    <title>Piano on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/piano/</link>
+    <description>Recent content in Piano on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Dec 2021 11:06:26 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/piano/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 21 Dec 2021 11:06:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/piano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In the Dark</title>
-      <link>https://claireradelfans.pages.dev/demos/in-the-dark/</link>
+      <link>http://localhost:1313/demos/in-the-dark/</link>
       <pubDate>Tue, 21 Dec 2021 11:06:26 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/in-the-dark/</guid>
+      
+      <guid>http://localhost:1313/demos/in-the-dark/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>vi IV I V</title>
-      <link>https://claireradelfans.pages.dev/demos/vi-iv-i-v/</link>
+      <link>http://localhost:1313/demos/vi-iv-i-v/</link>
       <pubDate>Fri, 08 Jun 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/vi-iv-i-v/</guid>
+      
+      <guid>http://localhost:1313/demos/vi-iv-i-v/</guid>
       <description>{part of a bridge/chorus I wrote a while back} let me know what you think!</description>
+      
     </item>
+    
     <item>
       <title>You Will Be Found</title>
-      <link>https://claireradelfans.pages.dev/covers/you-will-be-found/</link>
+      <link>http://localhost:1313/covers/you-will-be-found/</link>
       <pubDate>Fri, 19 Jan 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/you-will-be-found/</guid>
+      
+      <guid>http://localhost:1313/covers/you-will-be-found/</guid>
       <description>&amp;ldquo;You Will Be Found&amp;rdquo; @dearevanhansen @noahegalvin @bensplatt @hotdamnitslaura @broadwaycom #deh #youwillbefound #broadway #music #musical #Claireradelmusic #songwriter #singer</description>
+      
     </item>
+    
     <item>
       <title>New Year&#39;s Day</title>
-      <link>https://claireradelfans.pages.dev/covers/new-years-day/</link>
+      <link>http://localhost:1313/covers/new-years-day/</link>
       <pubDate>Mon, 13 Nov 2017 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/new-years-day/</guid>
+      
+      <guid>http://localhost:1313/covers/new-years-day/</guid>
       <description>{New Year&amp;rsquo;s Day} #reputation @taylorswift @taylornation</description>
+      
     </item>
+    
     <item>
       <title>Don&#39;t Know Why</title>
-      <link>https://claireradelfans.pages.dev/covers/dont-know-why/</link>
+      <link>http://localhost:1313/covers/dont--know-why/</link>
       <pubDate>Thu, 15 Dec 2016 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/dont-know-why/</guid>
+      
+      <guid>http://localhost:1313/covers/dont--know-why/</guid>
       <description> </description>
+      
     </item>
+    
   </channel>
 </rss>

@@ -2,18 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oos on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/oo/</link>
+    <link>http://localhost:1313/oo/</link>
     <description>Recent content in Oos on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/oo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/oo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Without Glasses</title>
-      <link>https://claireradelfans.pages.dev/oo/without-glasses/</link>
+      <link>http://localhost:1313/oo/without-glasses/</link>
       <pubDate>Wed, 12 Sep 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/oo/without-glasses/</guid>
+      
+      <guid>http://localhost:1313/oo/without-glasses/</guid>
       <description> </description>
+      
     </item>
+    
   </channel>
 </rss>

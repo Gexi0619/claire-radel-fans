@@ -2,95 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Releases on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/releases/</link>
+    <link>http://localhost:1313/releases/</link>
     <description>Recent content in Releases on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 17:50:51 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/releases/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 11:16:19 +0200</lastBuildDate><atom:link href="http://localhost:1313/releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To You</title>
+      <link>http://localhost:1313/releases/to-you/</link>
+      <pubDate>Thu, 28 Mar 2024 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/releases/to-you/</guid>
+      <description>Releases # more Behind the Scene # Some quick behind the scenes in the studio for my upcoming song “To You”!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/to-you/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Friend</title>
+      <link>http://localhost:1313/releases/friend/</link>
+      <pubDate>Fri, 17 Nov 2023 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/releases/friend/</guid>
+      <description> Releases # more </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/friend/feature.jpg" />
+    </item>
+    
     <item>
       <title>No Victory</title>
-      <link>https://claireradelfans.pages.dev/releases/no-victory/</link>
-      <pubDate>Tue, 11 Jul 2023 17:50:51 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/no-victory/</guid>
-      <description>Releases # Coming Soon</description>
+      <link>http://localhost:1313/releases/no-victory/</link>
+      <pubDate>Sat, 02 Sep 2023 17:50:51 +0200</pubDate>
+      
+      <guid>http://localhost:1313/releases/no-victory/</guid>
+      <description>Releases # more ## Lives Live - March, 26 2020 # Alright, so, I&amp;rsquo;m gonna start off with my newer original song, uh, that I co-wrote this with Marcus Waddell, um, and he is an Indianapolis-based producer, songwriter, um, and he&amp;rsquo;s been really great to work with, uh, so far, and, um, I&amp;rsquo;ve got two songs, uh, three songs that we&amp;rsquo;ve written, two of them I&amp;rsquo;ll be releasing, uh, sometime this year, so stay tuned, I&amp;rsquo;m really excited, and, um, this is one of them, and it is called, um, No Victory.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/no-victory/feature.jpg" />
     </item>
+    
     <item>
       <title>Looking No More</title>
-      <link>https://claireradelfans.pages.dev/releases/looking-no-more/</link>
+      <link>http://localhost:1313/releases/looking-no-more/</link>
       <pubDate>Fri, 14 Apr 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/looking-no-more/</guid>
+      
+      <guid>http://localhost:1313/releases/looking-no-more/</guid>
       <description>Releases # more Behind the Scene # Looking No More - Behind the scenes @ Court Street Recording # The official behind the scenes video of “Looking No More” recording session - Claire Radel and Michael Estok @ Court Street Recording.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/looking-no-more/feature.jpg" />
     </item>
+    
     <item>
       <title>The One</title>
-      <link>https://claireradelfans.pages.dev/releases/the-one/</link>
+      <link>http://localhost:1313/releases/the-one/</link>
       <pubDate>Fri, 11 Jun 2021 11:59:58 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/the-one/</guid>
+      
+      <guid>http://localhost:1313/releases/the-one/</guid>
       <description>Releases # more ## Lives Live - April 15, 2023 # Um, I&amp;rsquo;m gonna play The One, um, which was my last release, and this song is the song that got me my first sync licensing deal with Film and TV, and um, which is super cool.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/the-one/feature.jpg" />
     </item>
+    
     <item>
       <title>Something People Say</title>
-      <link>https://claireradelfans.pages.dev/releases/something-people-say/</link>
+      <link>http://localhost:1313/releases/some-thing-people-say/</link>
       <pubDate>Thu, 11 Mar 2021 14:48:28 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/something-people-say/</guid>
+      
+      <guid>http://localhost:1313/releases/some-thing-people-say/</guid>
       <description>This song is written by Claire</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/some-thing-people-say/feature.jpg" />
     </item>
+    
     <item>
       <title>Not What I Want</title>
-      <link>https://claireradelfans.pages.dev/releases/not-what-i-want/</link>
+      <link>http://localhost:1313/releases/not-what-i-want/</link>
       <pubDate>Fri, 07 Aug 2020 17:43:30 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/not-what-i-want/</guid>
+      
+      <guid>http://localhost:1313/releases/not-what-i-want/</guid>
       <description>Releases # more Lives # Live - November 16, 2019 # And then this is another new song.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/not-what-i-want/feature.jpg" />
     </item>
+    
     <item>
       <title>Guilitine</title>
-      <link>https://claireradelfans.pages.dev/releases/guiltine/</link>
+      <link>http://localhost:1313/releases/guiltine/</link>
       <pubDate>Fri, 12 Jun 2020 14:50:40 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/guiltine/</guid>
+      
+      <guid>http://localhost:1313/releases/guiltine/</guid>
       <description>You can here Claire&amp;rsquo;s voice in the song.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/guiltine/feature.jpg" />
     </item>
+    
     <item>
       <title>Like You Love Me</title>
-      <link>https://claireradelfans.pages.dev/releases/like-you-love-me/</link>
+      <link>http://localhost:1313/releases/like-you-love-me/</link>
       <pubDate>Wed, 03 Jun 2020 17:43:12 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/like-you-love-me/</guid>
+      
+      <guid>http://localhost:1313/releases/like-you-love-me/</guid>
       <description>Releases # more Lives # Live - Nov 16, 2019 # I thought I would do one and give you a little bit of an update on my music.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/like-you-love-me/feature.jpg" />
     </item>
+    
     <item>
       <title>You Re Askin for It</title>
-      <link>https://claireradelfans.pages.dev/releases/you-re-askin-for-it/</link>
+      <link>http://localhost:1313/releases/you-re-askin-for-it/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:35 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/you-re-askin-for-it/</guid>
+      
+      <guid>http://localhost:1313/releases/you-re-askin-for-it/</guid>
       <description>Releases # more Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/you-re-askin-for-it/feature.jpg" />
     </item>
+    
     <item>
       <title>The One for Me</title>
-      <link>https://claireradelfans.pages.dev/releases/the-one-for-me/</link>
+      <link>http://localhost:1313/releases/the-one-for-me/</link>
       <pubDate>Fri, 14 Sep 2018 12:00:08 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/the-one-for-me/</guid>
+      
+      <guid>http://localhost:1313/releases/the-one-for-me/</guid>
       <description>Releases # more Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/the-one-for-me/feature.jpg" />
     </item>
+    
     <item>
       <title>Someone&#39;s Gonna Love You</title>
-      <link>https://claireradelfans.pages.dev/releases/someones-gonna-love-you/</link>
+      <link>http://localhost:1313/releases/someones-gonna-love-you/</link>
       <pubDate>Fri, 14 Sep 2018 11:59:44 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/someones-gonna-love-you/</guid>
+      
+      <guid>http://localhost:1313/releases/someones-gonna-love-you/</guid>
       <description>Release # more Behind The Scenes # THE MAKING OF MY DEBUT EP - October 16, 2018 # I had such a GREAT time making my first EP!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/someones-gonna-love-you/feature.jpg" />
     </item>
+    
     <item>
       <title>Test</title>
-      <link>https://claireradelfans.pages.dev/releases/test/</link>
+      <link>http://localhost:1313/releases/test/</link>
       <pubDate>Wed, 28 Dec 2016 12:00:46 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/test/</guid>
+      
+      <guid>http://localhost:1313/releases/test/</guid>
       <description>Claire Radel · Claire Radel Someone&amp;#x27;s Gonna Love You html</description>
+      
     </item>
+    
     <item>
       <title>Your Lovin and You</title>
-      <link>https://claireradelfans.pages.dev/releases/your-lovin-and-you/</link>
+      <link>http://localhost:1313/releases/your-lovin-and-you/</link>
       <pubDate>Wed, 28 Dec 2016 12:00:46 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/releases/your-lovin-and-you/</guid>
+      
+      <guid>http://localhost:1313/releases/your-lovin-and-you/</guid>
       <description>Release # more Lives # Orangehaus Music Business Camp - July 17, 2016 # So honored to be chosen for this year&amp;rsquo;s compilation album at Orangehaus Music Business Camp!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/releases/your-lovin-and-you/feature.jpg" />
     </item>
+    
   </channel>
 </rss>

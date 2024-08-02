@@ -65,3 +65,8 @@ And I also, not only those two, but I have a song that I'll be releasing, anothe
 
 Anyway, with that one, I was like, "Hey, can you help me with this?" And he was like, "Yeah, for sure." So, he just helped me with the production side of everything because I'm not that good at that stuff yet. So, that one's super cool. They're both very much different.
 
+### Live - June 1, 2023
+
+{{< facebookvideov userid="ClareRadelMusic" id="1091356821687795">}}
+
+I didn’t win tonight’s competitions - but I did win in new connections, hearing really great songwriters and being surrounded by such an encouraging group of people!!! Tonight was so much fun and I’m so thankful for the opportunity. They had @chaserice’s bass player as one of the judges, it was really cool to hear his input, encouragement and advice!!! @redbicyclethenations [Music City Movement](https://www.facebook.com/MusicCityMovement?__cft__[0]=AZXNM3e8HrTzTfxMYWlKHUlqZYT-pFUhdM5E-tOEYjpv4aLVi2zaO_ReeDIrKH0YlWf4PfmylgtEK8DF9gqV9wM2JOJabdQIIbF7ik5MK8f3i3dX8PB5X4PbxuzeahUsMNcxdh51Q_mIG04iwY4NL2GQmS5Jhpye5TeNVlIkkuSSNOuGwyE3IGJCb9IkuY3n6qqdEkXqevDUDvceUkcHlLMb&__tn__=-]K-R) [Soundspace](https://www.facebook.com/SNDSPC?__cft__[0]=AZXNM3e8HrTzTfxMYWlKHUlqZYT-pFUhdM5E-tOEYjpv4aLVi2zaO_ReeDIrKH0YlWf4PfmylgtEK8DF9gqV9wM2JOJabdQIIbF7ik5MK8f3i3dX8PB5X4PbxuzeahUsMNcxdh51Q_mIG04iwY4NL2GQmS5Jhpye5TeNVlIkkuSSNOuGwyE3IGJCb9IkuY3n6qqdEkXqevDUDvceUkcHlLMb&__tn__=-]K-R)

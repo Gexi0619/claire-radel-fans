@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediummyope on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/mediummyope/</link>
+    <description>Recent content in Mediummyope on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Mon, 16 May 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/mediummyope/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunday funday</title>
+      <link>http://localhost:1313/arch/sunday-funday/</link>
+      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/sunday-funday/</guid>
+      <description>Flea markets are a guilty pleasure of mine.</description>
+      
+    </item>
+    
+    <item>
+      <title>Summer in maine</title>
+      <link>http://localhost:1313/arch/summer-in-maine/</link>
+      <pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/summer-in-maine/</guid>
+      <description>By the summer of 1984 I was your typical low self esteem riddled pre teen!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

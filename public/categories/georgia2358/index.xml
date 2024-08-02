@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Georgia2358 on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/georgia2358/</link>
+    <description>Recent content in Georgia2358 on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/georgia2358/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mummy&#39;s girl</title>
+      <link>http://localhost:1313/arch/mummy-s-girl/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/mummy-s-girl/</guid>
+      <description>This is a long story.</description>
+      
+    </item>
+    
+    <item>
+      <title>Georgie&#39;s story</title>
+      <link>http://localhost:1313/arch/georgie-s-story/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/georgie-s-story/</guid>
+      <description>Hello there.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Schmith on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/sam-schmith/</link>
+    <description>Recent content in Sam Schmith on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 19 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/sam-schmith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HELP!</title>
+      <link>http://localhost:1313/arch/help/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/help/</guid>
+      <description>I know it has been a while since I last posted here but I’ve been so busy you wouldn’t believe it!</description>
+      
+    </item>
+    
+    <item>
+      <title>My story</title>
+      <link>http://localhost:1313/arch/my-story/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/my-story/</guid>
+      <description>Hello! My name is Sam and I wanted to share my story&amp;hellip; Feel free to comment and please excuse me if the grammar is not perfect, English isn´t my first language so I may have some mistakes Lol&amp;hellip; Hope you enjoy it!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

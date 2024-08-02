@@ -2,270 +2,401 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 17:50:51 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 09 Apr 2024 11:04:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>coming soon</title>
-      <link>https://claireradelfans.pages.dev/tags/coming-soon/</link>
-      <pubDate>Tue, 11 Jul 2023 17:50:51 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/coming-soon/</guid>
+      <title>Demo</title>
+      <link>http://localhost:1313/tags/demo/</link>
+      <pubDate>Tue, 09 Apr 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/demo/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>new</title>
-      <link>https://claireradelfans.pages.dev/tags/new/</link>
-      <pubDate>Tue, 11 Jul 2023 17:50:51 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/new/</guid>
+      <title>Tracyrichardsonmusic</title>
+      <link>http://localhost:1313/tags/tracyrichardsonmusic/</link>
+      <pubDate>Fri, 05 Apr 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/tracyrichardsonmusic/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>beauty</title>
-      <link>https://claireradelfans.pages.dev/tags/beauty/</link>
+      <title>Release</title>
+      <link>http://localhost:1313/tags/release/</link>
+      <pubDate>Thu, 28 Mar 2024 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/release/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trevorpeverley</title>
+      <link>http://localhost:1313/tags/trevorpeverley/</link>
+      <pubDate>Thu, 28 Mar 2024 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/trevorpeverley/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Electric</title>
+      <link>http://localhost:1313/tags/electric/</link>
+      <pubDate>Wed, 18 Oct 2023 10:06:05 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/electric/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mikemainsmusic</title>
+      <link>http://localhost:1313/tags/mikemainsmusic/</link>
+      <pubDate>Fri, 04 Aug 2023 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/mikemainsmusic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Beauty</title>
+      <link>http://localhost:1313/tags/beauty/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/beauty/</guid>
+      
+      <guid>http://localhost:1313/tags/beauty/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>car</title>
-      <link>https://claireradelfans.pages.dev/tags/car/</link>
+      <title>Car</title>
+      <link>http://localhost:1313/tags/car/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/car/</guid>
+      
+      <guid>http://localhost:1313/tags/car/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>dress</title>
-      <link>https://claireradelfans.pages.dev/tags/dress/</link>
+      <title>Dress</title>
+      <link>http://localhost:1313/tags/dress/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/dress/</guid>
+      
+      <guid>http://localhost:1313/tags/dress/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>green</title>
-      <link>https://claireradelfans.pages.dev/tags/green/</link>
+      <title>Green</title>
+      <link>http://localhost:1313/tags/green/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/green/</guid>
+      
+      <guid>http://localhost:1313/tags/green/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>guitar</title>
-      <link>https://claireradelfans.pages.dev/tags/guitar/</link>
+      <title>Guitar</title>
+      <link>http://localhost:1313/tags/guitar/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/guitar/</guid>
+      
+      <guid>http://localhost:1313/tags/guitar/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>looks</title>
-      <link>https://claireradelfans.pages.dev/tags/looks/</link>
+      <title>Kenziemaroney</title>
+      <link>http://localhost:1313/tags/kenziemaroney/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/looks/</guid>
+      
+      <guid>http://localhost:1313/tags/kenziemaroney/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>pink</title>
-      <link>https://claireradelfans.pages.dev/tags/pink/</link>
+      <title>Looks</title>
+      <link>http://localhost:1313/tags/looks/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/pink/</guid>
+      
+      <guid>http://localhost:1313/tags/looks/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>purple</title>
-      <link>https://claireradelfans.pages.dev/tags/purple/</link>
+      <title>New</title>
+      <link>http://localhost:1313/tags/new/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/purple/</guid>
+      
+      <guid>http://localhost:1313/tags/new/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>rail</title>
-      <link>https://claireradelfans.pages.dev/tags/rail/</link>
+      <title>Pink</title>
+      <link>http://localhost:1313/tags/pink/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/rail/</guid>
+      
+      <guid>http://localhost:1313/tags/pink/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>red</title>
-      <link>https://claireradelfans.pages.dev/tags/red/</link>
+      <title>Purple</title>
+      <link>http://localhost:1313/tags/purple/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/red/</guid>
+      
+      <guid>http://localhost:1313/tags/purple/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>slay</title>
-      <link>https://claireradelfans.pages.dev/tags/slay/</link>
+      <title>Rail</title>
+      <link>http://localhost:1313/tags/rail/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/slay/</guid>
+      
+      <guid>http://localhost:1313/tags/rail/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>white</title>
-      <link>https://claireradelfans.pages.dev/tags/white/</link>
+      <title>Red</title>
+      <link>http://localhost:1313/tags/red/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/white/</guid>
+      
+      <guid>http://localhost:1313/tags/red/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>yellow</title>
-      <link>https://claireradelfans.pages.dev/tags/yellow/</link>
+      <title>Slay</title>
+      <link>http://localhost:1313/tags/slay/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/yellow/</guid>
+      
+      <guid>http://localhost:1313/tags/slay/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>demo</title>
-      <link>https://claireradelfans.pages.dev/tags/demo/</link>
+      <title>White</title>
+      <link>http://localhost:1313/tags/white/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/white/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Yellow</title>
+      <link>http://localhost:1313/tags/yellow/</link>
+      <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/yellow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iamzhaklina</title>
+      <link>http://localhost:1313/tags/iamzhaklina/</link>
       <pubDate>Thu, 18 May 2023 10:02:35 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/demo/</guid>
+      
+      <guid>http://localhost:1313/tags/iamzhaklina/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>iamzhaklina</title>
-      <link>https://claireradelfans.pages.dev/tags/iamzhaklina/</link>
-      <pubDate>Thu, 18 May 2023 10:02:35 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/iamzhaklina/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>release</title>
-      <link>https://claireradelfans.pages.dev/tags/release/</link>
-      <pubDate>Fri, 14 Apr 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/release/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>electric</title>
-      <link>https://claireradelfans.pages.dev/tags/electric/</link>
+      <title>Instrumental</title>
+      <link>http://localhost:1313/tags/instrumental/</link>
       <pubDate>Thu, 21 Jul 2022 10:41:32 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/electric/</guid>
+      
+      <guid>http://localhost:1313/tags/instrumental/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>instrumental</title>
-      <link>https://claireradelfans.pages.dev/tags/instrumental/</link>
+      <title>Solo</title>
+      <link>http://localhost:1313/tags/solo/</link>
       <pubDate>Thu, 21 Jul 2022 10:41:32 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/instrumental/</guid>
+      
+      <guid>http://localhost:1313/tags/solo/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>solo</title>
-      <link>https://claireradelfans.pages.dev/tags/solo/</link>
-      <pubDate>Thu, 21 Jul 2022 10:41:32 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/solo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>produce</title>
-      <link>https://claireradelfans.pages.dev/tags/produce/</link>
+      <title>Produce</title>
+      <link>http://localhost:1313/tags/produce/</link>
       <pubDate>Sun, 10 Apr 2022 10:49:32 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/produce/</guid>
+      
+      <guid>http://localhost:1313/tags/produce/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>trevorpeverley</title>
-      <link>https://claireradelfans.pages.dev/tags/trevorpeverley/</link>
-      <pubDate>Mon, 28 Mar 2022 10:58:45 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/trevorpeverley/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>piano</title>
-      <link>https://claireradelfans.pages.dev/tags/piano/</link>
+      <title>Piano</title>
+      <link>http://localhost:1313/tags/piano/</link>
       <pubDate>Tue, 21 Dec 2021 11:06:26 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/piano/</guid>
+      
+      <guid>http://localhost:1313/tags/piano/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>colin lockey</title>
-      <link>https://claireradelfans.pages.dev/tags/colin-lockey/</link>
+      <title>Colin Lockey</title>
+      <link>http://localhost:1313/tags/colin-lockey/</link>
       <pubDate>Thu, 11 Mar 2021 14:48:28 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/colin-lockey/</guid>
+      
+      <guid>http://localhost:1313/tags/colin-lockey/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>cowrite</title>
-      <link>https://claireradelfans.pages.dev/tags/cowrite/</link>
+      <title>Cowrite</title>
+      <link>http://localhost:1313/tags/cowrite/</link>
       <pubDate>Thu, 11 Mar 2021 14:48:28 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/cowrite/</guid>
+      
+      <guid>http://localhost:1313/tags/cowrite/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>cowirte</title>
-      <link>https://claireradelfans.pages.dev/tags/cowirte/</link>
+      <title>Cowirte</title>
+      <link>http://localhost:1313/tags/cowirte/</link>
       <pubDate>Fri, 12 Jun 2020 14:50:40 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/cowirte/</guid>
+      
+      <guid>http://localhost:1313/tags/cowirte/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>deray</title>
-      <link>https://claireradelfans.pages.dev/tags/deray/</link>
+      <title>Deray</title>
+      <link>http://localhost:1313/tags/deray/</link>
       <pubDate>Fri, 12 Jun 2020 14:50:40 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/deray/</guid>
+      
+      <guid>http://localhost:1313/tags/deray/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>taylor</title>
-      <link>https://claireradelfans.pages.dev/tags/taylor/</link>
+      <title>Taylor</title>
+      <link>http://localhost:1313/tags/taylor/</link>
       <pubDate>Mon, 16 Apr 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/taylor/</guid>
+      
+      <guid>http://localhost:1313/tags/taylor/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>special tuning</title>
-      <link>https://claireradelfans.pages.dev/tags/special-tuning/</link>
+      <title>Special Tuning</title>
+      <link>http://localhost:1313/tags/special-tuning/</link>
       <pubDate>Mon, 12 Feb 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/special-tuning/</guid>
+      
+      <guid>http://localhost:1313/tags/special-tuning/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>caffe</title>
-      <link>https://claireradelfans.pages.dev/tags/caffe/</link>
+      <title>Caffe</title>
+      <link>http://localhost:1313/tags/caffe/</link>
       <pubDate>Sat, 01 Apr 2017 11:59:58 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/caffe/</guid>
+      
+      <guid>http://localhost:1313/tags/caffe/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>nashville</title>
-      <link>https://claireradelfans.pages.dev/tags/nashville/</link>
+      <title>Nashville</title>
+      <link>http://localhost:1313/tags/nashville/</link>
       <pubDate>Sat, 01 Apr 2017 11:59:58 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/nashville/</guid>
+      
+      <guid>http://localhost:1313/tags/nashville/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>bluebird</title>
-      <link>https://claireradelfans.pages.dev/tags/bluebird/</link>
+      <title>Bluebird</title>
+      <link>http://localhost:1313/tags/bluebird/</link>
       <pubDate>Wed, 28 Dec 2016 12:00:46 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/bluebird/</guid>
+      
+      <guid>http://localhost:1313/tags/bluebird/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>duet</title>
-      <link>https://claireradelfans.pages.dev/tags/duet/</link>
+      <title>Duet</title>
+      <link>http://localhost:1313/tags/duet/</link>
       <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/duet/</guid>
+      
+      <guid>http://localhost:1313/tags/duet/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>my favorite</title>
-      <link>https://claireradelfans.pages.dev/tags/my-favorite/</link>
+      <title>My Favorite</title>
+      <link>http://localhost:1313/tags/my-favorite/</link>
       <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/my-favorite/</guid>
+      
+      <guid>http://localhost:1313/tags/my-favorite/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>stage</title>
-      <link>https://claireradelfans.pages.dev/tags/stage/</link>
+      <title>Stage</title>
+      <link>http://localhost:1313/tags/stage/</link>
       <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/stage/</guid>
+      
+      <guid>http://localhost:1313/tags/stage/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>rhum academy</title>
-      <link>https://claireradelfans.pages.dev/tags/rhum-academy/</link>
+      <title>Rhum Academy</title>
+      <link>http://localhost:1313/tags/rhum-academy/</link>
       <pubDate>Mon, 17 Nov 2014 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/tags/rhum-academy/</guid>
+      
+      <guid>http://localhost:1313/tags/rhum-academy/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

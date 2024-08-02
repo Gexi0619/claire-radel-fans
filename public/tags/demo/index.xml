@@ -1,54 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>demo on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/demo/</link>
-    <description>Recent content in demo on Claire Radel Fans</description>
+    <title>Demo on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/demo/</link>
+    <description>Recent content in Demo on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 May 2023 10:02:35 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 09 Apr 2024 11:04:58 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disable</title>
+      <link>http://localhost:1313/demos/disable/</link>
+      <pubDate>Tue, 09 Apr 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/disable/</guid>
+      <description>I spilled sauce on my sweatshirt earlier….</description>
+      
+    </item>
+    
+    <item>
+      <title>In Between</title>
+      <link>http://localhost:1313/demos/in-between/</link>
+      <pubDate>Fri, 05 Apr 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/in-between/</guid>
+      <description>Newer song called “In Between” that I wrote with @tracyrichardsonmusic &amp;amp; @songwritinglove !</description>
+      
+    </item>
+    
+    <item>
+      <title>B E bB</title>
+      <link>http://localhost:1313/demos/b-e-be/</link>
+      <pubDate>Sun, 17 Mar 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/b-e-be/</guid>
+      <description>wearing green for St.</description>
+      
+    </item>
+    
+    <item>
+      <title>Fine</title>
+      <link>http://localhost:1313/demos/fine/</link>
+      <pubDate>Thu, 07 Mar 2024 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/fine/</guid>
+      <description>the energy we are bringing into 2024 is attracting not chasing - Here’s a snippet of a new song I started writing!</description>
+      
+    </item>
+    
+    <item>
+      <title>Beach Ambient</title>
+      <link>http://localhost:1313/demos/beach-ambient/</link>
+      <pubDate>Mon, 04 Dec 2023 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/beach-ambient/</guid>
+      <description>Hope you enjoy this ambient type track I created yesterday!</description>
+      
+    </item>
+    
+    <item>
+      <title>Beach Trip</title>
+      <link>http://localhost:1313/demos/beach-trip/</link>
+      <pubDate>Sat, 02 Dec 2023 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/beach-trip/</guid>
+      <description>Just got done with starting this track tonight….</description>
+      
+    </item>
+    
+    <item>
+      <title>R&amp;B Hip-Hop Pop</title>
+      <link>http://localhost:1313/demos/rb-hiphop-pop/</link>
+      <pubDate>Sat, 02 Dec 2023 11:04:58 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/rb-hiphop-pop/</guid>
+      <description>Just got done with this track - produced it in an hour.</description>
+      
+    </item>
+    
+    <item>
+      <title>I Get This Is What Is Like</title>
+      <link>http://localhost:1313/demos/i-get-this-is-what-is-like/</link>
+      <pubDate>Sat, 01 Jul 2023 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/i-get-this-is-what-is-like/</guid>
+      <description>sometimes people are dealing with more than others realize.</description>
+      
+    </item>
+    
     <item>
       <title>Star Child</title>
-      <link>https://claireradelfans.pages.dev/demos/star-child/</link>
+      <link>http://localhost:1313/demos/star-child/</link>
       <pubDate>Thu, 18 May 2023 10:02:35 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/star-child/</guid>
+      
+      <guid>http://localhost:1313/demos/star-child/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>IV V VI</title>
-      <link>https://claireradelfans.pages.dev/demos/iv-v-vi/</link>
+      <link>http://localhost:1313/demos/iv-v-vi/</link>
       <pubDate>Sun, 30 Apr 2023 10:06:05 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/iv-v-vi/</guid>
-      <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
+      <guid>http://localhost:1313/demos/iv-v-vi/</guid>
+      <description> </description>
+      
     </item>
+    
     <item>
       <title>I II IV</title>
-      <link>https://claireradelfans.pages.dev/demos/i-ii-iv/</link>
+      <link>http://localhost:1313/demos/i-ii-iv/</link>
       <pubDate>Mon, 28 Mar 2022 10:58:45 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/i-ii-iv/</guid>
+      
+      <guid>http://localhost:1313/demos/i-ii-iv/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>Sol La Do La</title>
-      <link>https://claireradelfans.pages.dev/demos/sol-la-do-la/</link>
+      <link>http://localhost:1313/demos/sol-la-do-la/</link>
       <pubDate>Mon, 14 Mar 2022 11:01:51 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/sol-la-do-la/</guid>
+      
+      <guid>http://localhost:1313/demos/sol-la-do-la/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>Break My Heart</title>
-      <link>https://claireradelfans.pages.dev/demos/break-my-heart/</link>
+      <link>http://localhost:1313/demos/break-my-heart/</link>
       <pubDate>Mon, 28 Feb 2022 11:04:58 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/break-my-heart/</guid>
+      
+      <guid>http://localhost:1313/demos/break-my-heart/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
     <item>
       <title>In the Dark</title>
-      <link>https://claireradelfans.pages.dev/demos/in-the-dark/</link>
+      <link>http://localhost:1313/demos/in-the-dark/</link>
       <pubDate>Tue, 21 Dec 2021 11:06:26 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/demos/in-the-dark/</guid>
+      
+      <guid>http://localhost:1313/demos/in-the-dark/</guid>
       <description>View this post on Instagram A post shared by claire radel 🧚‍♀️✨ (@claireradelmusic)</description>
+      
     </item>
+    
   </channel>
 </rss>

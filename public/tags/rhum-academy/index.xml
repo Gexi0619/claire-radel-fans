@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rhum academy on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/rhum-academy/</link>
-    <description>Recent content in rhum academy on Claire Radel Fans</description>
+    <title>Rhum Academy on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/rhum-academy/</link>
+    <description>Recent content in Rhum Academy on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Nov 2014 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/rhum-academy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Mon, 17 Nov 2014 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/rhum-academy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hazy</title>
-      <link>https://claireradelfans.pages.dev/covers/hazy/</link>
+      <link>http://localhost:1313/covers/hazy/</link>
       <pubDate>Mon, 17 Nov 2014 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/hazy/</guid>
+      
+      <guid>http://localhost:1313/covers/hazy/</guid>
       <description>My second time performing at Rhum Academy.</description>
+      
     </item>
+    
   </channel>
 </rss>

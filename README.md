@@ -10,7 +10,12 @@ This is a fanpage of Claire Radel.
 
 ### Pages
 
-- [x] Releases' pages building
+- [ ] Releases' pages building
+  - [ ] no victory
+  - [ ] friend
+  - [ ] to you
+  - [x] something people say
+
 - [ ] Demos' pages building
 - [ ] Covers' pages building
 - [ ] Albums' pages building

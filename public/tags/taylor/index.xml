@@ -1,40 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>taylor on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/taylor/</link>
-    <description>Recent content in taylor on Claire Radel Fans</description>
+    <title>Taylor on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/taylor/</link>
+    <description>Recent content in Taylor on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Apr 2018 12:00:00 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/taylor/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/taylor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Delicate</title>
-      <link>https://claireradelfans.pages.dev/covers/delicate/</link>
+      <link>http://localhost:1313/covers/delicate/</link>
       <pubDate>Mon, 16 Apr 2018 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/delicate/</guid>
+      
+      <guid>http://localhost:1313/covers/delicate/</guid>
       <description>In honor of @taylorswift&amp;rsquo;s super rad #SpotifySingle version of &amp;ldquo;Delicate&amp;rdquo; off of #reputation here&amp;rsquo;s my #acousticcover, hope you enjoy!</description>
+      
     </item>
+    
     <item>
       <title>New Year&#39;s Day</title>
-      <link>https://claireradelfans.pages.dev/covers/new-years-day/</link>
+      <link>http://localhost:1313/covers/new-years-day/</link>
       <pubDate>Mon, 13 Nov 2017 12:00:00 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/new-years-day/</guid>
+      
+      <guid>http://localhost:1313/covers/new-years-day/</guid>
       <description>{New Year&amp;rsquo;s Day} #reputation @taylorswift @taylornation</description>
+      
     </item>
+    
     <item>
       <title>Black Bird</title>
-      <link>https://claireradelfans.pages.dev/covers/black-bird/</link>
+      <link>http://localhost:1313/covers/black-bird/</link>
       <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/black-bird/</guid>
+      
+      <guid>http://localhost:1313/covers/black-bird/</guid>
       <description>Practice - August 22, 2017 # Picked this up a few days ago.</description>
+      
     </item>
+    
     <item>
       <title>Blank Space, Style Mashup</title>
-      <link>https://claireradelfans.pages.dev/covers/blank-space-style-mashup/</link>
+      <link>http://localhost:1313/covers/blank-space-style-mashup/</link>
       <pubDate>Sat, 21 Feb 2015 12:19:53 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/covers/blank-space-style-mashup/</guid>
+      
+      <guid>http://localhost:1313/covers/blank-space-style-mashup/</guid>
       <description>Claire &amp;ldquo;Blank Space, Style Mashup&amp;rdquo;</description>
+      
     </item>
+    
   </channel>
 </rss>

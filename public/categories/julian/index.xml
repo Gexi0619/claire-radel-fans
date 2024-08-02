@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julian on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/julian/</link>
+    <description>Recent content in Julian on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Thu, 13 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/julian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More ado about nothing</title>
+      <link>http://localhost:1313/arch/more-ado-about-nothing/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/more-ado-about-nothing/</guid>
+      <description>This is the first piece of new fiction I’ve posted for about three years, and I’ve been messing about with it and tweaking it for a lot of that time.</description>
+      
+    </item>
+    
+    <item>
+      <title>The true story of Julian&#39;s first glasses</title>
+      <link>http://localhost:1313/arch/the-true-story-of-julian-s-first-glasses/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/the-true-story-of-julian-s-first-glasses/</guid>
+      <description>(from ‘When I was at school’, 31 December 2007)</description>
+      
+    </item>
+    
+    <item>
+      <title>Young hyperopes tell their stories</title>
+      <link>http://localhost:1313/arch/young-hyperopes-tell-their-stories/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/young-hyperopes-tell-their-stories/</guid>
+      <description>Here are four true stories told on EyeScene by young hyperopes (with comments by other members) about their experience of getting glasses for the first time.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mikemainsmusic on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/mikemainsmusic/</link>
+    <description>Recent content in Mikemainsmusic on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Fri, 04 Aug 2023 12:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/mikemainsmusic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some One New</title>
+      <link>http://localhost:1313/demos/some-one-new/</link>
+      <pubDate>Fri, 04 Aug 2023 12:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/demos/some-one-new/</guid>
+      <description>Good morning!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

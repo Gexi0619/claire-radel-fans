@@ -4,7 +4,6 @@ date: 2023-04-14T11:16:19+02:00
 draft: false
 tags:
 - release
-- new
 ---
 
 ## Releases
@@ -37,7 +36,7 @@ Studio: Court Street Recording
 
 [Court Street Recording](https://www.facebook.com/CourtStreetRecording/)
 
-## Acoustic version
+## Lives
 
 ### First Demo - April 1 2022
 
@@ -65,6 +64,30 @@ Start with the song call "Looking No More". I wrote this kind of about my relasi
 {{< facebookvideov userid="ClareRadelMusic" id="648133960184812" start="446">}}
 
 This last song is called "Lookin No More"
+
+### The Underdog - Oct 4, 2023
+
+{{< facebookvideov userid="ClareRadelMusic" id="234448705949446">}}
+
+Snippet from last night’s show at The Underdog in Nashville! So grateful to @kaileymiller & @joeylauretta who played with me, you guys were awesome!
+
+Last night was my first band show in about four years…Which is crazy! 
+
+Had a great time supporting @MollieJohnson ‘s single release for her new song “Crying and Drinking”! It was great to meet some other musicians and artists as well! 
+
+Shoutout to the band for the evening, Kailey on keys and Joey on drums! ![🙌🏻](https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1/16/1f64c_1f3fb.png)
+
+Had a lot of fun! ![🎉](https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png)
+
+### The 209 Nash - Oct 10
+
+{{< facebookvideov userid="ClareRadelMusic" id="1437806863447384">}}
+
+Had a great time last night playing for [The 209 Nash](https://www.facebook.com/The209Nash?__cft__[0]=AZUsyI4rrJmLAxK17iA8bjtz0C67r8uD7az5aWL1kPhP6oBsytmKBfHV_8Gbv5-RqJLh_cii3iCs5fhwnjZoYZvn-U14m-o2f2l_CXozW1hU0hbbKTTfcLWGCktSQgFDRMAYD9EFO1rRorAUcNYuYw188X_58u7YTx9_Bzq02eyt5RNstfyiF4xe31KZWuaUZywHgsspdk7HHdrgMu7urAUt0KyjNvO6pNtvkBmOZZdHbw&__tn__=-]K-R)!!! Thanks for having me out again! Shoutout to Josh Petroni for joining me on guitar, was a good time sharing songs! 
+
+{{< facebookvideov userid="ClareRadelMusic" id="318323620800142">}}
+
+Snippet from last night’s show @the209nash with @joshuapetroni joining me for an acoustic set!! Had a fun time, great music and great vibes. Thanks for having us! Also - thank you SO much for almost 9,000 streams on “Looking No More” literally insane. ![🥲](https://static.xx.fbcdn.net/images/emoji.php/v9/tec/1/16/1f972.png)
 
 ## Lyrics
 

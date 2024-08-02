@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NatNY on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/natny/</link>
+    <description>Recent content in NatNY on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/natny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Train Ride</title>
+      <link>http://localhost:1313/arch/a-train-ride/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/a-train-ride/</guid>
+      <description>If it hadn&amp;rsquo;t been for you guys on Vision and Specs, who have taught me to approach my own poor eyesight with self-esteem and appreciate my strong glasses, perhaps I would still be single today.</description>
+      
+    </item>
+    
+    <item>
+      <title>My blind date</title>
+      <link>http://localhost:1313/arch/my-blind-date/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/my-blind-date/</guid>
+      <description>Andy and myself had agreed by e-mail to meet at the Starbucks at the end of the local strip mall at two in the afternoon.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

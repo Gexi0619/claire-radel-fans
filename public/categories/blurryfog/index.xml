@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blurryfog on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/blurryfog/</link>
+    <description>Recent content in Blurryfog on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blurryfog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lisa&#39;s Nightmare</title>
+      <link>http://localhost:1313/arch/lisa-s-nightmare/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/lisa-s-nightmare/</guid>
+      <description>Lisa’s alarm on her phone rings its usual tune, waking Lisa just like any other morning.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ms Hart&#39;s Secret</title>
+      <link>http://localhost:1313/arch/ms-hart-s-secret/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/ms-hart-s-secret/</guid>
+      <description>It is 9.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

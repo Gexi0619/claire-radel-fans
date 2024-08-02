@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/trevor/</link>
+    <description>Recent content in Trevor on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 11:16:19 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/trevor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>To You</title>
+      <link>http://localhost:1313/releases/to-you/</link>
+      <pubDate>Thu, 28 Mar 2024 11:16:19 +0200</pubDate>
+      
+      <guid>http://localhost:1313/releases/to-you/</guid>
+      <description>Releases # more Behind the Scene # Some quick behind the scenes in the studio for my upcoming song “To You”!</description>
+      
+    </item>
+    
+  </channel>
+</rss>

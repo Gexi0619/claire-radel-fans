@@ -2,25 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jul 2023 00:58:23 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 18:07:54 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 28 Mar 2024 18:07:54 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Sassy Girl</title>
-      <link>https://claireradelfans.pages.dev/posts/sassy-girl/</link>
+      <link>http://localhost:1313/posts/sassy-girl/</link>
       <pubDate>Sun, 16 Jul 2023 00:58:23 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/posts/sassy-girl/</guid>
+      
+      <guid>http://localhost:1313/posts/sassy-girl/</guid>
       <description>March 9, 2019 # link</description>
+      
     </item>
+    
     <item>
       <title>About Claire</title>
-      <link>https://claireradelfans.pages.dev/posts/about/</link>
+      <link>http://localhost:1313/posts/about/</link>
       <pubDate>Tue, 11 Jul 2023 10:09:29 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/posts/about/</guid>
+      
+      <guid>http://localhost:1313/posts/about/</guid>
       <description>After learning guitar from her older brother and through music lessons at the ripe age of twelve while writing songs at the same time, Claire Radel&amp;rsquo;s musical journey has bloomed ever since.</description>
+      
     </item>
+    
   </channel>
 </rss>

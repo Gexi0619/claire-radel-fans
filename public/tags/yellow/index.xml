@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yellow on Claire Radel Fans</title>
-    <link>https://claireradelfans.pages.dev/tags/yellow/</link>
-    <description>Recent content in yellow on Claire Radel Fans</description>
+    <title>Yellow on Claire Radel Fans</title>
+    <link>http://localhost:1313/tags/yellow/</link>
+    <description>Recent content in Yellow on Claire Radel Fans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 11:16:19 +0200</lastBuildDate>
-    <atom:link href="https://claireradelfans.pages.dev/tags/yellow/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Tue, 11 Jul 2023 11:16:19 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/yellow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pick You</title>
-      <link>https://claireradelfans.pages.dev/albums/pick-you/</link>
+      <link>http://localhost:1313/albums/pick-you/</link>
       <pubDate>Tue, 11 Jul 2023 11:16:19 +0200</pubDate>
-      <guid>https://claireradelfans.pages.dev/albums/pick-you/</guid>
+      
+      <guid>http://localhost:1313/albums/pick-you/</guid>
       <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/albums/pick-you/feature.jpg" />
     </item>
+    
   </channel>
 </rss>

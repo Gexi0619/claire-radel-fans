@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lou on Claire Radel Fans</title>
+    <link>http://localhost:1313/categories/lou/</link>
+    <description>Recent content in Lou on Claire Radel Fans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Claire Radel Fans</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/lou/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mollie&#39;s Story</title>
+      <link>http://localhost:1313/arch/mollie-s-story/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/mollie-s-story/</guid>
+      <description>Hi. I&amp;rsquo;m Mollie, I&amp;rsquo;m 16, and I thought that I&amp;rsquo;d share a story with you.</description>
+      
+    </item>
+    
+    <item>
+      <title>Caitlin&#39;s Story</title>
+      <link>http://localhost:1313/arch/caitlin-s-story/</link>
+      <pubDate>Sun, 29 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/arch/caitlin-s-story/</guid>
+      <description>Hi</description>
+      
+    </item>
+    
+  </channel>
+</rss>
